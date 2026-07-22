@@ -1,0 +1,189 @@
+pack.description=Produced by Gabriel Aplok.
+
+entity.trenbankai:l83a1_grenade_entity.name=L83A1 Grenade
+entity.trenbankai:m84_grenade_entity.name=M84 Grenade
+entity.trenbankai:mk2_grenade_entity.name=Mk 2 Grenade
+entity.trenbankai:landmine_explosion.name=Landmine
+entity.trenbankai:bullet.name=Bullet
+entity.trenbankai:rocket.name=Rocket
+
+## Items
+itemGroup.name.trenbankai:containers=Containers
+itemGroup.name.trenbankai:hesco=Hesco
+itemGroup.name.trenbankai:props=Props
+itemGroup.name.trenbankai:workbench=Workbench
+itemGroup.name.trenbankai:attachments=Attachments
+itemGroup.name.trenbankai:ammo=Magazines & Shells
+itemGroup.name.trenbankai:throwables=Throwables
+itemGroup.name.trenbankai:weapons=Weapons
+
+item.helmet_6b47.name=6B46 Ratnik-BSh Helmet
+item.helmet_6b47_nvg.name=6B46 Ratnik-BSh Helmet with Night Vision Goggles
+item.juggernaut_boots.name=Juggernaut Boots
+item.juggernaut_chestplate.name=Juggernaut Chestplate
+item.juggernaut_helmet.name=Juggernaut Helmet
+item.juggernaut_leggings.name=Juggernaut Leggings
+item.nvg.name=Night Vision Goggles
+item.vest_6b13.name=6B13 Assault Armor
+item.vest_6b3.name=6B3 Body Armor
+item.vest_bnti_gzhelk.name=BNTI Gzhel-K Body Armor
+
+item.acog_sight.name=ACOG Sight
+item.eotech_sight.name=EOTech Sight
+item.okp7_reflex_sight.name=OKP-7 Reflex Sight
+item.predator_v4_sight.name=Predator V4 Sight
+item.foregrip.name=Foregrip
+item.laser_red.name=Red Laser
+item.laser_green.name=Green Laser
+item.scope_hp.name=HP Scope
+item.scope_lp.name=LP Scope
+item.silencer.name=Silencer
+
+item.blueprint_attachments.name=Deprecated item, will be removed soon
+item.blueprint_weapons.name=Weapons Blueprint
+
+item.bullet_9x19pr.name=9x19mm Parabellum Bullet
+item.bullet_12gauge.name=12 Gauge Cartridge
+item.bullet_50ae.name=.50 AE Cartridge
+item.bullet_545x39.name=5.45x39mm Bullet
+item.bullet_556x45.name=5.56x45mm NATO Bullet
+item.bullet_762x39.name=7.62x39mm Bullet
+item.bullet_762x51.name=7.62x51mm NATO Bullet
+
+item.cooked_flesh.name=Cooked Flesh
+
+item.ak12.name=AK-12
+item.ak47.name=AK-47
+item.ak74.name=AK-74
+item.akm.name=AKM
+item.aks74u.name=AKS-47U
+item.awp.name=AWP
+item.deagle.name=Desert Eagle
+item.fnfal.name=FN FAL
+item.parafal.name=ParaFAL
+item.glock17.name=Glock 17
+item.glock18.name=Glock 18c
+item.m249.name=M249
+item.m4a1.name=M4A1
+item.mossberg.name=Mossberg 500
+item.m1014.name=M1014 §c(TEST)§r
+item.mp5a5.name=HK MP5-A5
+item.rpg7.name=RPG-7
+
+item.ak12_mag.name=AK-12 30rnd Mag
+item.ak47_mag.name=AK-47 30rnd Mag
+item.ak74_mag.name=AK-74 30rnd Mag
+item.akm_mag.name=AKM 30rnd Mag
+item.awp_mag.name=AWP 10rnd Mag
+item.deagle_mag.name=Desert Eagle 10rnd Mag
+item.fnfal_mag.name=FN FAL 20rnd Mag
+item.glock_mag.name=Glock's 17rnd Mag
+item.m249_mag.name=M249 200rnd Box
+item.m4a1_mag.name=M4A1 30rnd Mag
+item.mp5a5_mag.name=HK MP5-A5 30rnd Mag
+item.rpg7_rocket.name=RPG-7 Rocket
+
+item.aluminum_ingot.name=Aluminum Ingot
+item.aluminum_nugget.name=Aluminum Nugget
+item.bucket_petroleum.name=Bucket with Petroleum
+item.gunmetal_ingot.name=Gunmetal Ingot
+item.gunmetal_nugget.name=Gunmetal Nugget
+item.gunmetal_scrap.name=Gunmetal Scrap
+item.plastic_mass.name=Plastic Mass
+item.plastic_plate.name=Plastic Plate
+item.steel_ingot.name=Steel Ingot
+item.steel_mix.name=Steel Mix
+item.steel_nugget.name=Steel Nugget
+item.sulfur_powder.name=Sulfur Powder
+
+item.landmine.name=Landmine
+
+item.settings_menu.name=§9AG's Settings Menu§r
+
+item.barrel_long.name=Long Barrel
+item.barrel_medium.name=Medium Barrel
+item.barrel_short.name=Short Barrel
+item.grip.name=Grip
+item.grip_pistol.name=Grip for Pistol
+item.stock_polymer.name=Polymer Stock
+item.stock_rpg7.name=RPG-7 Stock
+item.stock_sniper_polymer.name=Sniper Polymer Stock
+item.stock_wood.name=Wood Stock
+item.stock_foldable.name=Foldable Stock
+
+item.l83a1_grenade.name=L83A1 Grenade
+item.m84_grenade.name=M84 Grenade
+item.mk2_grenade.name=Mk 2 Grenade
+item.flare.name=Flare
+
+## Tiles
+
+tile.aluminum_block.name=Aluminum Block
+tile.aluminum_ore.name=Aluminum Ore
+tile.deepslate_aluminum_ore.name=Deepslate Aluminum Ore
+tile.steel_block.name=Steel Block
+tile.gunmetal_block.name=Gunmetal Block
+tile.steel_ore.name=Steel Ore
+
+tile.container_blue.name=Blue Container
+tile.container_red.name=Red Container
+tile.container_green.name=Green Container
+tile.container_brown.name=Brown Container
+
+tile.hesco_olive.name=Olive Hesco Bastion
+tile.hesco_snow.name=Snow Hesco Bastion
+tile.hesco_tan.name=Tan Hesco Bastion
+
+tile.spotlight.name=Spotlight
+tile.barbed_wire.name=Barbed Wire
+tile.sandbag.name=Sandbag
+tile.hedgehog.name=Czech Hedgehog
+tile.ceiling_light.name=Ceiling Light
+tile.corrugated_metal_rusty.name=Rusty Corrugated Metal
+tile.corrugated_metal.name=Corrugated Metal
+tile.tread_plate.name=Tread Plate
+tile.military_wall.name=Military Wall
+tile.hazard_block.name=Hazard Block
+
+tile.ammo_workbench.name=Ammo Workbench
+tile.attachment_workbench.name=Attachment Workbench
+tile.weapon_workbench.name=Weapon Workbench
+
+## Messages
+
+game.message.joined=§e[Aplok Guns]§r Use the §eAG's Settings Menu§r to customize your game settings.
+
+game.message.weapon_workbench.hold_weapon=§cHold a weapon in your main hand to use the Attachments Workbench.
+game.message.weapon_workbench.no_support=§cThis weapon does not allow accessory installation.
+game.message.weapon_workbench.no_config=§cThe attachment configuration for this weapon was not found.
+game.message.weapon_workbench.missing_attachment_item=§cMissing attachment item in inventory.
+game.message.weapon_workbench.transaction_failed=§cTransaction failed. Please check if you possess the required accessory.
+game.message.ammo_workbench.no_ingredients=§cYou have no %s for crafting the ammo.
+game.message.ammo_workbench.ingredients_cost=Crafting this ammo will cost %s %s and %s %s.
+game.message.ammo_workbench.action.get=Get %s
+
+game.action.cancel=Cancel
+game.action.apply_attachment=Apply Attachment
+
+game.tip.reloading=> RELOADING <
+
+death.attack.bullet=%1$s was shot by %2$s using %3$s
+death.attack.bullet.head=%1$s was headshot by %2$s using %3$s
+
+### UI Texts
+ui.settings.title=Settings
+ui.settings.save_button=Save Settings
+ui.settings.page_text= - Settings Page
+ui.settings.required_op= §c[Required Host/OP]
+ui.settings.saved=§aSettings saved successfully!
+ui.settings.need_op=§cYou must be the host or operator to change this option.
+
+### UI Categories
+ui.settings.category.general=General
+ui.settings.category.host=Host
+ui.settings.category.weapons=Weapons
+
+### UI Weapons
+ui.settings.setting.wall_detection=Wall Detection
+ui.settings.setting.disable_shot_light=Disable Shot Light §c[Reduces Lag]
+ui.settings.setting.deathMessage=Death Message

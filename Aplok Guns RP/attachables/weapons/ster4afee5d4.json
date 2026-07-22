@@ -1,0 +1,69 @@
+/* Copyright 2025 <FireWave Interactive>. This work is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License. You may not use this work for commercial purposes, and you may not alter, transform, or build upon this work. For more details, visit http://creativecommons.org/licenses/by-nc-nd/4.0/ */
+{
+  "format_version": "1.21.0",
+  "minecraft:attachable": {
+    "description": {
+      "identifier": "trenbankai:glock17",
+      "materials": {
+        "default": "entity_alphatest",
+        // Custom
+        "transparent": "entity_alphablend",
+        "transparent_additive": "entity_beam_additive",
+        "charged": "charged_creeper",
+        "glow": "spider",
+        "nvg": "hud_nvg"
+      },
+      "textures": {
+        "default": "textures/models/weapons/glock17",
+        // Attachments | Sights
+        "predator_v4": "textures/models/attachment/predator_v4",
+        // Attachments | Tactical
+        "laser_red": "textures/models/attachment/laser_red",
+        "laser_green": "textures/models/attachment/laser_green",
+        // Attachments | Muzzle
+        "silencer": "textures/models/attachment/silencer"
+      },
+      "geometry": {
+        "default": "geometry.glock",
+        // Attachments | Sights
+        "predator_v4": "geometry.predator_v4",
+        // Attachments | Tactical
+        "laser": "geometry.laser",
+        // Attachments | Muzzle
+        "silencer": "geometry.silencer"
+      },
+      "animations": {
+        "setup_controller": "controller.animation.weapon.setup",
+        "attachments": "animation.glock.attachments",
+        "wield_controller": "controller.animation.weapon.wield",
+        "wield_fpp": "animation.weapons.wield_fpp",
+        "wield_tpp": "animation.weapons.wield_pistols_tpp",
+        "reload_controller": "controller.animation.weapon.reload",
+        "reload_empty_fpp": "animation.glock.fpp_reload",
+        "reload_fpp": "animation.glock.fpp_reload",
+        "fire_controller": "controller.animation.weapon.fire",
+        "fire": "animation.glock.fire.item"
+      },
+      "scripts": {
+        "pre_animation": ["v.is_first_person = c.is_first_person;"],
+        "animate": ["setup_controller"]
+      },
+      "render_controllers": [
+        // General
+        "controller.render.weapon",
+        // Attachments | Sights
+        {
+          "controller.render.predator_v4": "q.has_property('trenbankai:sight') && q.property('trenbankai:sight') == 6"
+        },
+        // Attachments | Tactical
+        {
+          "controller.render.laser": "q.has_property('trenbankai:laser') && q.property('trenbankai:laser') >= 1"
+        },
+        // Attachments | Muzzle
+        {
+          "controller.render.silencer": "q.has_property('trenbankai:silencer') && q.property('trenbankai:silencer') == 1"
+        }
+      ]
+    }
+  }
+}

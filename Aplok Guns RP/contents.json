@@ -1,0 +1,2699 @@
+{
+   "content" : [
+      {
+         "path" : "CHANGELOG.md"
+      },
+      {
+         "path" : "CREDITS.md"
+      },
+      {
+         "path" : "LICENSE.md"
+      },
+      {
+         "path" : "NOTICE.md"
+      },
+      {
+         "path" : "animation_controllers/player/ster17d61f0d.json"
+      },
+      {
+         "path" : "animation_controllers/player/ster1ee3ad78.json"
+      },
+      {
+         "path" : "animation_controllers/player/ster4039a822.json"
+      },
+      {
+         "path" : "animation_controllers/weapons/ster2195bf03.json"
+      },
+      {
+         "path" : "animation_controllers/weapons/ster47ca012e.json"
+      },
+      {
+         "path" : "animation_controllers/weapons/sterdcd877bc.json"
+      },
+      {
+         "path" : "animations/items/ster982c6d41.json"
+      },
+      {
+         "path" : "animations/player/ster0a2ed39b.json"
+      },
+      {
+         "path" : "animations/player/ster1ee3ad78.json"
+      },
+      {
+         "path" : "animations/player/sterbf11433f.json"
+      },
+      {
+         "path" : "animations/projectile/ster77df983a.json"
+      },
+      {
+         "path" : "animations/throwable/ster3d9ef788.json"
+      },
+      {
+         "path" : "animations/throwable/ster4aab567e.json"
+      },
+      {
+         "path" : "animations/throwable/sterb470020a.json"
+      },
+      {
+         "path" : "animations/weapons/ster07fecdfc.json"
+      },
+      {
+         "path" : "animations/weapons/ster18ca58a8.json"
+      },
+      {
+         "path" : "animations/weapons/ster3fb8cf5a.json"
+      },
+      {
+         "path" : "animations/weapons/ster5f095931.json"
+      },
+      {
+         "path" : "animations/weapons/ster779315eb.json"
+      },
+      {
+         "path" : "animations/weapons/ster84239f25.json"
+      },
+      {
+         "path" : "animations/weapons/ster85bcd341.json"
+      },
+      {
+         "path" : "animations/weapons/ster95709d58.json"
+      },
+      {
+         "path" : "animations/weapons/ster988f9124.json"
+      },
+      {
+         "path" : "animations/weapons/stera012b6c7.json"
+      },
+      {
+         "path" : "animations/weapons/sterbb2a2602.json"
+      },
+      {
+         "path" : "animations/weapons/sterc32e1c45.json"
+      },
+      {
+         "path" : "animations/weapons/sterc4f0e4bf.json"
+      },
+      {
+         "path" : "animations/weapons/sterd2fcf5bd.json"
+      },
+      {
+         "path" : "animations/weapons/stered7b5723.json"
+      },
+      {
+         "path" : "animations/weapons/sterf6cd6406.json"
+      },
+      {
+         "path" : "animations/wearable/ster126d0736.json"
+      },
+      {
+         "path" : "animations/wearable/ster671f2921.json"
+      },
+      {
+         "path" : "attachables/throwable/ster3d9ef788.json"
+      },
+      {
+         "path" : "attachables/throwable/ster74c674aa.json"
+      },
+      {
+         "path" : "attachables/throwable/ster8c58521d.json"
+      },
+      {
+         "path" : "attachables/throwable/sterb624983b.json"
+      },
+      {
+         "path" : "attachables/weapons/ster07fecdfc.json"
+      },
+      {
+         "path" : "attachables/weapons/ster18ca58a8.json"
+      },
+      {
+         "path" : "attachables/weapons/ster3fb8cf5a.json"
+      },
+      {
+         "path" : "attachables/weapons/ster4afee5d4.json"
+      },
+      {
+         "path" : "attachables/weapons/ster5f095931.json"
+      },
+      {
+         "path" : "attachables/weapons/ster779315eb.json"
+      },
+      {
+         "path" : "attachables/weapons/ster84239f25.json"
+      },
+      {
+         "path" : "attachables/weapons/ster85bcd341.json"
+      },
+      {
+         "path" : "attachables/weapons/ster8bc18b45.json"
+      },
+      {
+         "path" : "attachables/weapons/ster95709d58.json"
+      },
+      {
+         "path" : "attachables/weapons/ster988f9124.json"
+      },
+      {
+         "path" : "attachables/weapons/sterbb2a2602.json"
+      },
+      {
+         "path" : "attachables/weapons/sterc32e1c45.json"
+      },
+      {
+         "path" : "attachables/weapons/sterc4f0e4bf.json"
+      },
+      {
+         "path" : "attachables/weapons/sterd2fcf5bd.json"
+      },
+      {
+         "path" : "attachables/weapons/stered7b5723.json"
+      },
+      {
+         "path" : "attachables/weapons/sterf6cd6406.json"
+      },
+      {
+         "path" : "attachables/wearable/ster01296d03.json"
+      },
+      {
+         "path" : "attachables/wearable/ster126d0736.json"
+      },
+      {
+         "path" : "attachables/wearable/ster2b460956.json"
+      },
+      {
+         "path" : "attachables/wearable/ster38b73a50.json"
+      },
+      {
+         "path" : "attachables/wearable/ster3bfec87f.json"
+      },
+      {
+         "path" : "attachables/wearable/ster5f916971.json"
+      },
+      {
+         "path" : "attachables/wearable/ster73aaad25.json"
+      },
+      {
+         "path" : "attachables/wearable/ster9f00775a.json"
+      },
+      {
+         "path" : "attachables/wearable/stercab21a96.json"
+      },
+      {
+         "path" : "attachables/wearable/sterccf0a03f.json"
+      },
+      {
+         "path" : "blocks.json"
+      },
+      {
+         "path" : "contents.json"
+      },
+      {
+         "path" : "entity/player/ster1ee3ad78.json"
+      },
+      {
+         "path" : "entity/projectile/ster77df983a.json"
+      },
+      {
+         "path" : "entity/throwable/ster3d9ef788.json"
+      },
+      {
+         "path" : "entity/throwable/ster74c674aa.json"
+      },
+      {
+         "path" : "entity/throwable/ster8c58521d.json"
+      },
+      {
+         "path" : "entity/throwable/sterb624983b.json"
+      },
+      {
+         "path" : "fogs/fog_default.json"
+      },
+      {
+         "path" : "manifest.json"
+      },
+      {
+         "path" : "materials/entity.material"
+      },
+      {
+         "path" : "models/blocks/explosive/sterea4b107b.json"
+      },
+      {
+         "path" : "models/blocks/misc/ster84e5bfa5.json"
+      },
+      {
+         "path" : "models/blocks/props/ster05a9a12d.json"
+      },
+      {
+         "path" : "models/blocks/props/ster185fa45c.json"
+      },
+      {
+         "path" : "models/blocks/props/ster1894d3bc.json"
+      },
+      {
+         "path" : "models/blocks/props/stera3535c19.json"
+      },
+      {
+         "path" : "models/blocks/props/stera4457db4.json"
+      },
+      {
+         "path" : "models/blocks/props/stercd9b7abd.json"
+      },
+      {
+         "path" : "models/blocks/props/stere2cbeb55.json"
+      },
+      {
+         "path" : "models/blocks/workbench/ster60bc4dc6.json"
+      },
+      {
+         "path" : "models/blocks/workbench/stera30d8482.json"
+      },
+      {
+         "path" : "models/blocks/workbench/sterf0810cac.json"
+      },
+      {
+         "path" : "models/entity/attachment/ster0cff97c0.json"
+      },
+      {
+         "path" : "models/entity/attachment/ster3ef71779.json"
+      },
+      {
+         "path" : "models/entity/attachment/ster5001d4db.json"
+      },
+      {
+         "path" : "models/entity/attachment/ster697c534a.json"
+      },
+      {
+         "path" : "models/entity/attachment/ster94b8e135.json"
+      },
+      {
+         "path" : "models/entity/attachment/sterafedfd42.json"
+      },
+      {
+         "path" : "models/entity/attachment/sterb0988935.json"
+      },
+      {
+         "path" : "models/entity/attachment/sterc3cc98f5.json"
+      },
+      {
+         "path" : "models/entity/attachment/sterc845fc1f.json"
+      },
+      {
+         "path" : "models/entity/hud/ster15283a5a.json"
+      },
+      {
+         "path" : "models/entity/hud/sterb22f23b4.json"
+      },
+      {
+         "path" : "models/entity/hud/sterbff9dbdd.json"
+      },
+      {
+         "path" : "models/entity/hud/sterf95f377c.json"
+      },
+      {
+         "path" : "models/entity/misc/ster762fc5a6.json"
+      },
+      {
+         "path" : "models/entity/misc/ster84e5bfa5.json"
+      },
+      {
+         "path" : "models/entity/misc/sterb3e2c76c.json"
+      },
+      {
+         "path" : "models/entity/misc/stere32067bb.json"
+      },
+      {
+         "path" : "models/entity/projectile/ster38f538db.json"
+      },
+      {
+         "path" : "models/entity/throwable/ster3d9ef788.json"
+      },
+      {
+         "path" : "models/entity/throwable/ster4aab567e.json"
+      },
+      {
+         "path" : "models/entity/throwable/sterea4b107b.json"
+      },
+      {
+         "path" : "models/entity/weapons/ster07fecdfc.json"
+      },
+      {
+         "path" : "models/entity/weapons/ster0cbf0047.json"
+      },
+      {
+         "path" : "models/entity/weapons/ster18ca58a8.json"
+      },
+      {
+         "path" : "models/entity/weapons/ster3fb8cf5a.json"
+      },
+      {
+         "path" : "models/entity/weapons/ster3fd6b0ae.json"
+      },
+      {
+         "path" : "models/entity/weapons/ster5f095931.json"
+      },
+      {
+         "path" : "models/entity/weapons/ster779315eb.json"
+      },
+      {
+         "path" : "models/entity/weapons/ster84239f25.json"
+      },
+      {
+         "path" : "models/entity/weapons/ster85bcd341.json"
+      },
+      {
+         "path" : "models/entity/weapons/ster95709d58.json"
+      },
+      {
+         "path" : "models/entity/weapons/ster988f9124.json"
+      },
+      {
+         "path" : "models/entity/weapons/stera012b6c7.json"
+      },
+      {
+         "path" : "models/entity/weapons/sterb2ac7d23.json"
+      },
+      {
+         "path" : "models/entity/weapons/sterbb2a2602.json"
+      },
+      {
+         "path" : "models/entity/weapons/sterc32e1c45.json"
+      },
+      {
+         "path" : "models/entity/weapons/sterca3ceabb.json"
+      },
+      {
+         "path" : "models/entity/weapons/sterd2fcf5bd.json"
+      },
+      {
+         "path" : "models/entity/weapons/stered7b5723.json"
+      },
+      {
+         "path" : "models/entity/weapons/sterf6cd6406.json"
+      },
+      {
+         "path" : "models/entity/wearable/ster126d0736.json"
+      },
+      {
+         "path" : "models/entity/wearable/ster38b73a50.json"
+      },
+      {
+         "path" : "models/entity/wearable/ster3bfec87f.json"
+      },
+      {
+         "path" : "models/entity/wearable/ster671f2921.json"
+      },
+      {
+         "path" : "models/entity/wearable/ster73aaad25.json"
+      },
+      {
+         "path" : "models/entity/wearable/sterccf0a03f.json"
+      },
+      {
+         "path" : "pack_icon.png"
+      },
+      {
+         "path" : "particles/bullet/casing/ster0ea08c01.json"
+      },
+      {
+         "path" : "particles/bullet/casing/ster26491211.json"
+      },
+      {
+         "path" : "particles/bullet/casing/ster39750039.json"
+      },
+      {
+         "path" : "particles/bullet/casing/ster3c002db8.json"
+      },
+      {
+         "path" : "particles/bullet/casing/ster73f5f932.json"
+      },
+      {
+         "path" : "particles/bullet/casing/sterd88914dd.json"
+      },
+      {
+         "path" : "particles/bullet/ster070bb267.json"
+      },
+      {
+         "path" : "particles/bullet/ster12d47da8.json"
+      },
+      {
+         "path" : "particles/bullet/ster16c7acd9.json"
+      },
+      {
+         "path" : "particles/bullet/ster25dcde7f.json"
+      },
+      {
+         "path" : "particles/bullet/ster2f133d54.json"
+      },
+      {
+         "path" : "particles/bullet/ster7cff6c52.json"
+      },
+      {
+         "path" : "particles/explosion/ster1ccf2c78.json"
+      },
+      {
+         "path" : "particles/explosion/ster2b553a63.json"
+      },
+      {
+         "path" : "particles/explosion/ster3e92393a.json"
+      },
+      {
+         "path" : "particles/explosion/ster45c27fdd.json"
+      },
+      {
+         "path" : "particles/explosion/sterc007b6a2.json"
+      },
+      {
+         "path" : "particles/explosion/sterdaca3d84.json"
+      },
+      {
+         "path" : "particles/light/ster011bbcbf.json"
+      },
+      {
+         "path" : "particles/light/sterb47c4deb.json"
+      },
+      {
+         "path" : "particles/smoke/ster0064e35f.json"
+      },
+      {
+         "path" : "particles/smoke/sterce515060.json"
+      },
+      {
+         "path" : "particles/throwable/ster0c3825b8.json"
+      },
+      {
+         "path" : "particles/throwable/sterbc68377f.json"
+      },
+      {
+         "path" : "particles/vanilla/ster58d4c330.json"
+      },
+      {
+         "path" : "particles/weapons/rpg7/ster0ba94728.json"
+      },
+      {
+         "path" : "particles/weapons/rpg7/ster28fb505a.json"
+      },
+      {
+         "path" : "particles/weapons/rpg7/ster56fafbae.json"
+      },
+      {
+         "path" : "particles/weapons/rpg7/ster66b40cef.json"
+      },
+      {
+         "path" : "particles/weapons/rpg7/ster889c1b1a.json"
+      },
+      {
+         "path" : "particles/weapons/rpg7/ster8a24ab52.json"
+      },
+      {
+         "path" : "particles/weapons/rpg7/sterd52c59e4.json"
+      },
+      {
+         "path" : "particles/weapons/rpg7/sterec77fc63.json"
+      },
+      {
+         "path" : "particles/weapons/ster23f5725c.json"
+      },
+      {
+         "path" : "particles/weapons/ster282acf1b.json"
+      },
+      {
+         "path" : "particles/weapons/ster2ae8ac90.json"
+      },
+      {
+         "path" : "particles/weapons/sterb4cc0342.json"
+      },
+      {
+         "path" : "particles/weapons/sterc9251716.json"
+      },
+      {
+         "path" : "render_controllers/hud/steredd18f3a.json"
+      },
+      {
+         "path" : "render_controllers/player/ster1ee3ad78.json"
+      },
+      {
+         "path" : "render_controllers/throwable/ster4aab567e.json"
+      },
+      {
+         "path" : "render_controllers/weapons/ster982c6d41.json"
+      },
+      {
+         "path" : "render_controllers/weapons/stera634eb81.json"
+      },
+      {
+         "path" : "render_controllers/wearable/ster671f2921.json"
+      },
+      {
+         "path" : "sounds/ambient/loop/electric_highvoltageline.fsb"
+      },
+      {
+         "path" : "sounds/ambient/loop/electric_pole.fsb"
+      },
+      {
+         "path" : "sounds/ambient/loop/electric_station_hum_loop_0.fsb"
+      },
+      {
+         "path" : "sounds/ambient/loop/electric_station_hum_loop_1.fsb"
+      },
+      {
+         "path" : "sounds/ambient/loop/electric_station_hum_loop_2.fsb"
+      },
+      {
+         "path" : "sounds/ambient/loop/electric_station_hum_loop_3.fsb"
+      },
+      {
+         "path" : "sounds/ambient/loop/lamp_celling.fsb"
+      },
+      {
+         "path" : "sounds/block/light/blink.fsb"
+      },
+      {
+         "path" : "sounds/bullet/distant/distant_0.fsb"
+      },
+      {
+         "path" : "sounds/bullet/distant/distant_1.fsb"
+      },
+      {
+         "path" : "sounds/bullet/distant/distant_2.fsb"
+      },
+      {
+         "path" : "sounds/bullet/distant/distant_3.fsb"
+      },
+      {
+         "path" : "sounds/bullet/eject/bounce_308mm.fsb"
+      },
+      {
+         "path" : "sounds/bullet/eject/bounce_338mm.fsb"
+      },
+      {
+         "path" : "sounds/bullet/eject/bounce_50bmg.fsb"
+      },
+      {
+         "path" : "sounds/bullet/eject/bounce_556mm.fsb"
+      },
+      {
+         "path" : "sounds/bullet/eject/bounce_9mm.fsb"
+      },
+      {
+         "path" : "sounds/bullet/eject/bounce_shotgun.fsb"
+      },
+      {
+         "path" : "sounds/bullet/eject/eject_45acp.fsb"
+      },
+      {
+         "path" : "sounds/bullet/eject/eject_50bmg.fsb"
+      },
+      {
+         "path" : "sounds/bullet/eject/eject_556mm.fsb"
+      },
+      {
+         "path" : "sounds/bullet/eject/eject_762mm.fsb"
+      },
+      {
+         "path" : "sounds/bullet/eject/eject_9mm.fsb"
+      },
+      {
+         "path" : "sounds/bullet/impact/cardboard_0.fsb"
+      },
+      {
+         "path" : "sounds/bullet/impact/cardboard_1.fsb"
+      },
+      {
+         "path" : "sounds/bullet/impact/cardboard_2.fsb"
+      },
+      {
+         "path" : "sounds/bullet/impact/cardboard_3.fsb"
+      },
+      {
+         "path" : "sounds/bullet/impact/cardboard_4.fsb"
+      },
+      {
+         "path" : "sounds/bullet/impact/carpet_0.fsb"
+      },
+      {
+         "path" : "sounds/bullet/impact/carpet_1.fsb"
+      },
+      {
+         "path" : "sounds/bullet/impact/carpet_2.fsb"
+      },
+      {
+         "path" : "sounds/bullet/impact/carpet_3.fsb"
+      },
+      {
+         "path" : "sounds/bullet/impact/carpet_4.fsb"
+      },
+      {
+         "path" : "sounds/bullet/impact/chainlink_0.fsb"
+      },
+      {
+         "path" : "sounds/bullet/impact/chainlink_1.fsb"
+      },
+      {
+         "path" : "sounds/bullet/impact/chainlink_2.fsb"
+      },
+      {
+         "path" : "sounds/bullet/impact/chainlink_3.fsb"
+      },
+      {
+         "path" : "sounds/bullet/impact/chainlink_4.fsb"
+      },
+      {
+         "path" : "sounds/bullet/impact/computer_0.fsb"
+      },
+      {
+         "path" : "sounds/bullet/impact/computer_1.fsb"
+      },
+      {
+         "path" : "sounds/bullet/impact/computer_2.fsb"
+      },
+      {
+         "path" : "sounds/bullet/impact/computer_3.fsb"
+      },
+      {
+         "path" : "sounds/bullet/impact/computer_4.fsb"
+      },
+      {
+         "path" : "sounds/bullet/impact/concrete_0.fsb"
+      },
+      {
+         "path" : "sounds/bullet/impact/concrete_1.fsb"
+      },
+      {
+         "path" : "sounds/bullet/impact/concrete_2.fsb"
+      },
+      {
+         "path" : "sounds/bullet/impact/concrete_3.fsb"
+      },
+      {
+         "path" : "sounds/bullet/impact/concrete_4.fsb"
+      },
+      {
+         "path" : "sounds/bullet/impact/dirt_0.fsb"
+      },
+      {
+         "path" : "sounds/bullet/impact/dirt_1.fsb"
+      },
+      {
+         "path" : "sounds/bullet/impact/dirt_2.fsb"
+      },
+      {
+         "path" : "sounds/bullet/impact/dirt_3.fsb"
+      },
+      {
+         "path" : "sounds/bullet/impact/dirt_4.fsb"
+      },
+      {
+         "path" : "sounds/bullet/impact/flesh_0.fsb"
+      },
+      {
+         "path" : "sounds/bullet/impact/flesh_1.fsb"
+      },
+      {
+         "path" : "sounds/bullet/impact/flesh_2.fsb"
+      },
+      {
+         "path" : "sounds/bullet/impact/flesh_3.fsb"
+      },
+      {
+         "path" : "sounds/bullet/impact/flesh_4.fsb"
+      },
+      {
+         "path" : "sounds/bullet/impact/foliage_0.fsb"
+      },
+      {
+         "path" : "sounds/bullet/impact/foliage_1.fsb"
+      },
+      {
+         "path" : "sounds/bullet/impact/foliage_2.fsb"
+      },
+      {
+         "path" : "sounds/bullet/impact/foliage_3.fsb"
+      },
+      {
+         "path" : "sounds/bullet/impact/foliage_4.fsb"
+      },
+      {
+         "path" : "sounds/bullet/impact/fruit_0.fsb"
+      },
+      {
+         "path" : "sounds/bullet/impact/fruit_1.fsb"
+      },
+      {
+         "path" : "sounds/bullet/impact/fruit_2.fsb"
+      },
+      {
+         "path" : "sounds/bullet/impact/fruit_3.fsb"
+      },
+      {
+         "path" : "sounds/bullet/impact/fruit_4.fsb"
+      },
+      {
+         "path" : "sounds/bullet/impact/glass_0.fsb"
+      },
+      {
+         "path" : "sounds/bullet/impact/glass_1.fsb"
+      },
+      {
+         "path" : "sounds/bullet/impact/glass_2.fsb"
+      },
+      {
+         "path" : "sounds/bullet/impact/glass_3.fsb"
+      },
+      {
+         "path" : "sounds/bullet/impact/glass_4.fsb"
+      },
+      {
+         "path" : "sounds/bullet/impact/grass_0.fsb"
+      },
+      {
+         "path" : "sounds/bullet/impact/grass_1.fsb"
+      },
+      {
+         "path" : "sounds/bullet/impact/grass_2.fsb"
+      },
+      {
+         "path" : "sounds/bullet/impact/grass_3.fsb"
+      },
+      {
+         "path" : "sounds/bullet/impact/grass_4.fsb"
+      },
+      {
+         "path" : "sounds/bullet/impact/gravel_0.fsb"
+      },
+      {
+         "path" : "sounds/bullet/impact/gravel_1.fsb"
+      },
+      {
+         "path" : "sounds/bullet/impact/gravel_2.fsb"
+      },
+      {
+         "path" : "sounds/bullet/impact/gravel_3.fsb"
+      },
+      {
+         "path" : "sounds/bullet/impact/gravel_4.fsb"
+      },
+      {
+         "path" : "sounds/bullet/impact/kevlar_0.fsb"
+      },
+      {
+         "path" : "sounds/bullet/impact/kevlar_1.fsb"
+      },
+      {
+         "path" : "sounds/bullet/impact/kevlar_2.fsb"
+      },
+      {
+         "path" : "sounds/bullet/impact/kevlar_3.fsb"
+      },
+      {
+         "path" : "sounds/bullet/impact/kevlar_4.fsb"
+      },
+      {
+         "path" : "sounds/bullet/impact/melon_0.fsb"
+      },
+      {
+         "path" : "sounds/bullet/impact/melon_1.fsb"
+      },
+      {
+         "path" : "sounds/bullet/impact/melon_2.fsb"
+      },
+      {
+         "path" : "sounds/bullet/impact/melon_3.fsb"
+      },
+      {
+         "path" : "sounds/bullet/impact/melon_4.fsb"
+      },
+      {
+         "path" : "sounds/bullet/impact/metal_0.fsb"
+      },
+      {
+         "path" : "sounds/bullet/impact/metal_1.fsb"
+      },
+      {
+         "path" : "sounds/bullet/impact/metal_2.fsb"
+      },
+      {
+         "path" : "sounds/bullet/impact/metal_3.fsb"
+      },
+      {
+         "path" : "sounds/bullet/impact/metal_4.fsb"
+      },
+      {
+         "path" : "sounds/bullet/impact/metal_barrel_0.fsb"
+      },
+      {
+         "path" : "sounds/bullet/impact/metal_barrel_1.fsb"
+      },
+      {
+         "path" : "sounds/bullet/impact/metal_barrel_2.fsb"
+      },
+      {
+         "path" : "sounds/bullet/impact/metal_barrel_3.fsb"
+      },
+      {
+         "path" : "sounds/bullet/impact/metal_barrel_4.fsb"
+      },
+      {
+         "path" : "sounds/bullet/impact/metal_panel_0.fsb"
+      },
+      {
+         "path" : "sounds/bullet/impact/metal_panel_1.fsb"
+      },
+      {
+         "path" : "sounds/bullet/impact/metal_panel_2.fsb"
+      },
+      {
+         "path" : "sounds/bullet/impact/metal_panel_3.fsb"
+      },
+      {
+         "path" : "sounds/bullet/impact/metal_panel_4.fsb"
+      },
+      {
+         "path" : "sounds/bullet/impact/metal_solid_0.fsb"
+      },
+      {
+         "path" : "sounds/bullet/impact/metal_solid_1.fsb"
+      },
+      {
+         "path" : "sounds/bullet/impact/metal_solid_2.fsb"
+      },
+      {
+         "path" : "sounds/bullet/impact/metal_solid_3.fsb"
+      },
+      {
+         "path" : "sounds/bullet/impact/metal_solid_4.fsb"
+      },
+      {
+         "path" : "sounds/bullet/impact/mud_0.fsb"
+      },
+      {
+         "path" : "sounds/bullet/impact/mud_1.fsb"
+      },
+      {
+         "path" : "sounds/bullet/impact/mud_2.fsb"
+      },
+      {
+         "path" : "sounds/bullet/impact/mud_3.fsb"
+      },
+      {
+         "path" : "sounds/bullet/impact/mud_4.fsb"
+      },
+      {
+         "path" : "sounds/bullet/impact/plastic_0.fsb"
+      },
+      {
+         "path" : "sounds/bullet/impact/plastic_1.fsb"
+      },
+      {
+         "path" : "sounds/bullet/impact/plastic_2.fsb"
+      },
+      {
+         "path" : "sounds/bullet/impact/plastic_3.fsb"
+      },
+      {
+         "path" : "sounds/bullet/impact/plastic_4.fsb"
+      },
+      {
+         "path" : "sounds/bullet/impact/player_0.fsb"
+      },
+      {
+         "path" : "sounds/bullet/impact/player_1.fsb"
+      },
+      {
+         "path" : "sounds/bullet/impact/player_2.fsb"
+      },
+      {
+         "path" : "sounds/bullet/impact/player_3.fsb"
+      },
+      {
+         "path" : "sounds/bullet/impact/player_4.fsb"
+      },
+      {
+         "path" : "sounds/bullet/impact/pottery_0.fsb"
+      },
+      {
+         "path" : "sounds/bullet/impact/pottery_1.fsb"
+      },
+      {
+         "path" : "sounds/bullet/impact/pottery_2.fsb"
+      },
+      {
+         "path" : "sounds/bullet/impact/pottery_3.fsb"
+      },
+      {
+         "path" : "sounds/bullet/impact/pottery_4.fsb"
+      },
+      {
+         "path" : "sounds/bullet/impact/sand_0.fsb"
+      },
+      {
+         "path" : "sounds/bullet/impact/sand_1.fsb"
+      },
+      {
+         "path" : "sounds/bullet/impact/sand_2.fsb"
+      },
+      {
+         "path" : "sounds/bullet/impact/sand_3.fsb"
+      },
+      {
+         "path" : "sounds/bullet/impact/sand_4.fsb"
+      },
+      {
+         "path" : "sounds/bullet/impact/tile_0.fsb"
+      },
+      {
+         "path" : "sounds/bullet/impact/tile_1.fsb"
+      },
+      {
+         "path" : "sounds/bullet/impact/tile_2.fsb"
+      },
+      {
+         "path" : "sounds/bullet/impact/tile_3.fsb"
+      },
+      {
+         "path" : "sounds/bullet/impact/tile_4.fsb"
+      },
+      {
+         "path" : "sounds/bullet/impact/vehicle_0.fsb"
+      },
+      {
+         "path" : "sounds/bullet/impact/vehicle_1.fsb"
+      },
+      {
+         "path" : "sounds/bullet/impact/vehicle_2.fsb"
+      },
+      {
+         "path" : "sounds/bullet/impact/vehicle_3.fsb"
+      },
+      {
+         "path" : "sounds/bullet/impact/vehicle_4.fsb"
+      },
+      {
+         "path" : "sounds/bullet/impact/water_0.fsb"
+      },
+      {
+         "path" : "sounds/bullet/impact/water_1.fsb"
+      },
+      {
+         "path" : "sounds/bullet/impact/water_2.fsb"
+      },
+      {
+         "path" : "sounds/bullet/impact/water_3.fsb"
+      },
+      {
+         "path" : "sounds/bullet/impact/water_4.fsb"
+      },
+      {
+         "path" : "sounds/bullet/impact/wood_0.fsb"
+      },
+      {
+         "path" : "sounds/bullet/impact/wood_1.fsb"
+      },
+      {
+         "path" : "sounds/bullet/impact/wood_2.fsb"
+      },
+      {
+         "path" : "sounds/bullet/impact/wood_3.fsb"
+      },
+      {
+         "path" : "sounds/bullet/impact/wood_4.fsb"
+      },
+      {
+         "path" : "sounds/bullet/impact/wood_planks_0.fsb"
+      },
+      {
+         "path" : "sounds/bullet/impact/wood_planks_1.fsb"
+      },
+      {
+         "path" : "sounds/bullet/impact/wood_planks_2.fsb"
+      },
+      {
+         "path" : "sounds/bullet/impact/wood_planks_3.fsb"
+      },
+      {
+         "path" : "sounds/bullet/impact/wood_planks_4.fsb"
+      },
+      {
+         "path" : "sounds/bullet/reload/bullet_in_0.fsb"
+      },
+      {
+         "path" : "sounds/bullet/reload/bullet_in_1.fsb"
+      },
+      {
+         "path" : "sounds/bullet/reload/bullet_in_2.fsb"
+      },
+      {
+         "path" : "sounds/bullet/reload/bullet_in_3.fsb"
+      },
+      {
+         "path" : "sounds/bullet/ricochet/ricochet_0.fsb"
+      },
+      {
+         "path" : "sounds/bullet/ricochet/ricochet_1.fsb"
+      },
+      {
+         "path" : "sounds/bullet/ricochet/ricochet_10.fsb"
+      },
+      {
+         "path" : "sounds/bullet/ricochet/ricochet_11.fsb"
+      },
+      {
+         "path" : "sounds/bullet/ricochet/ricochet_12.fsb"
+      },
+      {
+         "path" : "sounds/bullet/ricochet/ricochet_13.fsb"
+      },
+      {
+         "path" : "sounds/bullet/ricochet/ricochet_14.fsb"
+      },
+      {
+         "path" : "sounds/bullet/ricochet/ricochet_15.fsb"
+      },
+      {
+         "path" : "sounds/bullet/ricochet/ricochet_16.fsb"
+      },
+      {
+         "path" : "sounds/bullet/ricochet/ricochet_2.fsb"
+      },
+      {
+         "path" : "sounds/bullet/ricochet/ricochet_3.fsb"
+      },
+      {
+         "path" : "sounds/bullet/ricochet/ricochet_4.fsb"
+      },
+      {
+         "path" : "sounds/bullet/ricochet/ricochet_5.fsb"
+      },
+      {
+         "path" : "sounds/bullet/ricochet/ricochet_6.fsb"
+      },
+      {
+         "path" : "sounds/bullet/ricochet/ricochet_7.fsb"
+      },
+      {
+         "path" : "sounds/bullet/ricochet/ricochet_8.fsb"
+      },
+      {
+         "path" : "sounds/bullet/ricochet/ricochet_9.fsb"
+      },
+      {
+         "path" : "sounds/bullet/subsonic/aggressive_0.fsb"
+      },
+      {
+         "path" : "sounds/bullet/subsonic/aggressive_1.fsb"
+      },
+      {
+         "path" : "sounds/bullet/subsonic/aggressive_2.fsb"
+      },
+      {
+         "path" : "sounds/bullet/subsonic/aggressive_3.fsb"
+      },
+      {
+         "path" : "sounds/bullet/subsonic/aggressive_4.fsb"
+      },
+      {
+         "path" : "sounds/bullet/subsonic/aggressive_5.fsb"
+      },
+      {
+         "path" : "sounds/bullet/subsonic/aggressive_6.fsb"
+      },
+      {
+         "path" : "sounds/bullet/subsonic/light_0.fsb"
+      },
+      {
+         "path" : "sounds/bullet/subsonic/light_1.fsb"
+      },
+      {
+         "path" : "sounds/bullet/subsonic/light_2.fsb"
+      },
+      {
+         "path" : "sounds/bullet/subsonic/light_3.fsb"
+      },
+      {
+         "path" : "sounds/bullet/subsonic/light_4.fsb"
+      },
+      {
+         "path" : "sounds/bullet/subsonic/light_5.fsb"
+      },
+      {
+         "path" : "sounds/bullet/subsonic/light_6.fsb"
+      },
+      {
+         "path" : "sounds/bullet/subsonic/short_0.fsb"
+      },
+      {
+         "path" : "sounds/bullet/subsonic/short_1.fsb"
+      },
+      {
+         "path" : "sounds/bullet/subsonic/short_2.fsb"
+      },
+      {
+         "path" : "sounds/bullet/subsonic/short_3.fsb"
+      },
+      {
+         "path" : "sounds/bullet/subsonic/short_4.fsb"
+      },
+      {
+         "path" : "sounds/bullet/subsonic/short_5.fsb"
+      },
+      {
+         "path" : "sounds/bullet/subsonic/short_6.fsb"
+      },
+      {
+         "path" : "sounds/bullet/subsonic/tonal_0.fsb"
+      },
+      {
+         "path" : "sounds/bullet/subsonic/tonal_1.fsb"
+      },
+      {
+         "path" : "sounds/bullet/subsonic/tonal_2.fsb"
+      },
+      {
+         "path" : "sounds/bullet/subsonic/tonal_3.fsb"
+      },
+      {
+         "path" : "sounds/bullet/subsonic/tonal_4.fsb"
+      },
+      {
+         "path" : "sounds/bullet/subsonic/tonal_5.fsb"
+      },
+      {
+         "path" : "sounds/bullet/subsonic/tonal_6.fsb"
+      },
+      {
+         "path" : "sounds/bullet/subsonic/wide_0.fsb"
+      },
+      {
+         "path" : "sounds/bullet/subsonic/wide_1.fsb"
+      },
+      {
+         "path" : "sounds/bullet/subsonic/wide_2.fsb"
+      },
+      {
+         "path" : "sounds/bullet/subsonic/wide_3.fsb"
+      },
+      {
+         "path" : "sounds/bullet/subsonic/wide_4.fsb"
+      },
+      {
+         "path" : "sounds/bullet/subsonic/wide_5.fsb"
+      },
+      {
+         "path" : "sounds/bullet/subsonic/wide_6.fsb"
+      },
+      {
+         "path" : "sounds/bullet/supersonic/indoor/bulletby_0.fsb"
+      },
+      {
+         "path" : "sounds/bullet/supersonic/indoor/bulletby_1.fsb"
+      },
+      {
+         "path" : "sounds/bullet/supersonic/indoor/bulletby_2.fsb"
+      },
+      {
+         "path" : "sounds/bullet/supersonic/indoor/bulletby_3.fsb"
+      },
+      {
+         "path" : "sounds/bullet/supersonic/indoor/bulletby_4.fsb"
+      },
+      {
+         "path" : "sounds/bullet/supersonic/indoor/bulletby_5.fsb"
+      },
+      {
+         "path" : "sounds/bullet/supersonic/indoor/bulletby_6.fsb"
+      },
+      {
+         "path" : "sounds/bullet/supersonic/indoor/bulletby_7.fsb"
+      },
+      {
+         "path" : "sounds/bullet/supersonic/indoor/bulletby_8.fsb"
+      },
+      {
+         "path" : "sounds/bullet/supersonic/indoor/bulletby_alt_0.fsb"
+      },
+      {
+         "path" : "sounds/bullet/supersonic/indoor/bulletby_alt_1.fsb"
+      },
+      {
+         "path" : "sounds/bullet/supersonic/indoor/bulletby_alt_2.fsb"
+      },
+      {
+         "path" : "sounds/bullet/supersonic/indoor/bulletby_alt_3.fsb"
+      },
+      {
+         "path" : "sounds/bullet/supersonic/indoor/bulletby_alt_4.fsb"
+      },
+      {
+         "path" : "sounds/bullet/supersonic/indoor/bulletby_alt_5.fsb"
+      },
+      {
+         "path" : "sounds/bullet/supersonic/indoor/bulletby_alt_6.fsb"
+      },
+      {
+         "path" : "sounds/bullet/supersonic/indoor/bulletby_alt_7.fsb"
+      },
+      {
+         "path" : "sounds/bullet/supersonic/indoor/bulletby_alt_8.fsb"
+      },
+      {
+         "path" : "sounds/bullet/supersonic/indoor/bulletby_alt_whizz_0.fsb"
+      },
+      {
+         "path" : "sounds/bullet/supersonic/indoor/bulletby_alt_whizz_1.fsb"
+      },
+      {
+         "path" : "sounds/bullet/supersonic/indoor/bulletby_alt_whizz_2.fsb"
+      },
+      {
+         "path" : "sounds/bullet/supersonic/indoor/bulletby_alt_whizz_3.fsb"
+      },
+      {
+         "path" : "sounds/bullet/supersonic/indoor/bulletby_alt_whizz_4.fsb"
+      },
+      {
+         "path" : "sounds/bullet/supersonic/indoor/bulletby_alt_whizz_5.fsb"
+      },
+      {
+         "path" : "sounds/bullet/supersonic/indoor/bulletby_alt_whizz_6.fsb"
+      },
+      {
+         "path" : "sounds/bullet/supersonic/indoor/bulletby_alt_whizz_7.fsb"
+      },
+      {
+         "path" : "sounds/bullet/supersonic/indoor/bulletby_alt_whizz_8.fsb"
+      },
+      {
+         "path" : "sounds/bullet/supersonic/indoor/bulletby_whizz_0.fsb"
+      },
+      {
+         "path" : "sounds/bullet/supersonic/indoor/bulletby_whizz_1.fsb"
+      },
+      {
+         "path" : "sounds/bullet/supersonic/indoor/bulletby_whizz_2.fsb"
+      },
+      {
+         "path" : "sounds/bullet/supersonic/indoor/bulletby_whizz_3.fsb"
+      },
+      {
+         "path" : "sounds/bullet/supersonic/indoor/bulletby_whizz_4.fsb"
+      },
+      {
+         "path" : "sounds/bullet/supersonic/indoor/bulletby_whizz_5.fsb"
+      },
+      {
+         "path" : "sounds/bullet/supersonic/indoor/bulletby_whizz_6.fsb"
+      },
+      {
+         "path" : "sounds/bullet/supersonic/indoor/bulletby_whizz_7.fsb"
+      },
+      {
+         "path" : "sounds/bullet/supersonic/indoor/bulletby_whizz_8.fsb"
+      },
+      {
+         "path" : "sounds/bullet/supersonic/outdoor/bulletby_0.fsb"
+      },
+      {
+         "path" : "sounds/bullet/supersonic/outdoor/bulletby_1.fsb"
+      },
+      {
+         "path" : "sounds/bullet/supersonic/outdoor/bulletby_2.fsb"
+      },
+      {
+         "path" : "sounds/bullet/supersonic/outdoor/bulletby_3.fsb"
+      },
+      {
+         "path" : "sounds/bullet/supersonic/outdoor/bulletby_4.fsb"
+      },
+      {
+         "path" : "sounds/bullet/supersonic/outdoor/bulletby_5.fsb"
+      },
+      {
+         "path" : "sounds/bullet/supersonic/outdoor/bulletby_6.fsb"
+      },
+      {
+         "path" : "sounds/bullet/supersonic/outdoor/bulletby_7.fsb"
+      },
+      {
+         "path" : "sounds/bullet/supersonic/outdoor/bulletby_8.fsb"
+      },
+      {
+         "path" : "sounds/bullet/supersonic/outdoor/bulletby_alt_0.fsb"
+      },
+      {
+         "path" : "sounds/bullet/supersonic/outdoor/bulletby_alt_1.fsb"
+      },
+      {
+         "path" : "sounds/bullet/supersonic/outdoor/bulletby_alt_10.fsb"
+      },
+      {
+         "path" : "sounds/bullet/supersonic/outdoor/bulletby_alt_11.fsb"
+      },
+      {
+         "path" : "sounds/bullet/supersonic/outdoor/bulletby_alt_2.fsb"
+      },
+      {
+         "path" : "sounds/bullet/supersonic/outdoor/bulletby_alt_3.fsb"
+      },
+      {
+         "path" : "sounds/bullet/supersonic/outdoor/bulletby_alt_4.fsb"
+      },
+      {
+         "path" : "sounds/bullet/supersonic/outdoor/bulletby_alt_5.fsb"
+      },
+      {
+         "path" : "sounds/bullet/supersonic/outdoor/bulletby_alt_6.fsb"
+      },
+      {
+         "path" : "sounds/bullet/supersonic/outdoor/bulletby_alt_7.fsb"
+      },
+      {
+         "path" : "sounds/bullet/supersonic/outdoor/bulletby_alt_8.fsb"
+      },
+      {
+         "path" : "sounds/bullet/supersonic/outdoor/bulletby_alt_9.fsb"
+      },
+      {
+         "path" : "sounds/bullet/supersonic/outdoor/bulletby_alt_whizz_0.fsb"
+      },
+      {
+         "path" : "sounds/bullet/supersonic/outdoor/bulletby_alt_whizz_1.fsb"
+      },
+      {
+         "path" : "sounds/bullet/supersonic/outdoor/bulletby_alt_whizz_2.fsb"
+      },
+      {
+         "path" : "sounds/bullet/supersonic/outdoor/bulletby_alt_whizz_3.fsb"
+      },
+      {
+         "path" : "sounds/bullet/supersonic/outdoor/bulletby_alt_whizz_4.fsb"
+      },
+      {
+         "path" : "sounds/bullet/supersonic/outdoor/bulletby_alt_whizz_5.fsb"
+      },
+      {
+         "path" : "sounds/bullet/supersonic/outdoor/bulletby_alt_whizz_6.fsb"
+      },
+      {
+         "path" : "sounds/bullet/supersonic/outdoor/bulletby_alt_whizz_7.fsb"
+      },
+      {
+         "path" : "sounds/bullet/supersonic/outdoor/bulletby_alt_whizz_8.fsb"
+      },
+      {
+         "path" : "sounds/bullet/supersonic/outdoor/bulletby_whizz_0.fsb"
+      },
+      {
+         "path" : "sounds/bullet/supersonic/outdoor/bulletby_whizz_1.fsb"
+      },
+      {
+         "path" : "sounds/bullet/supersonic/outdoor/bulletby_whizz_2.fsb"
+      },
+      {
+         "path" : "sounds/bullet/supersonic/outdoor/bulletby_whizz_3.fsb"
+      },
+      {
+         "path" : "sounds/bullet/supersonic/outdoor/bulletby_whizz_4.fsb"
+      },
+      {
+         "path" : "sounds/bullet/supersonic/outdoor/bulletby_whizz_5.fsb"
+      },
+      {
+         "path" : "sounds/bullet/supersonic/outdoor/bulletby_whizz_6.fsb"
+      },
+      {
+         "path" : "sounds/bullet/supersonic/outdoor/bulletby_whizz_7.fsb"
+      },
+      {
+         "path" : "sounds/bullet/supersonic/outdoor/bulletby_whizz_8.fsb"
+      },
+      {
+         "path" : "sounds/bullet/supersonic/outdoor/bulletby_whizz_9.fsb"
+      },
+      {
+         "path" : "sounds/effect/.gitignore"
+      },
+      {
+         "path" : "sounds/effect/explosion/debris_0.fsb"
+      },
+      {
+         "path" : "sounds/effect/explosion/debris_1.fsb"
+      },
+      {
+         "path" : "sounds/effect/explosion/debris_2.fsb"
+      },
+      {
+         "path" : "sounds/effect/explosion/debris_3.fsb"
+      },
+      {
+         "path" : "sounds/effect/explosion/distant_0.fsb"
+      },
+      {
+         "path" : "sounds/effect/explosion/distant_1.fsb"
+      },
+      {
+         "path" : "sounds/effect/explosion/distant_2.fsb"
+      },
+      {
+         "path" : "sounds/effect/explosion/distant_3.fsb"
+      },
+      {
+         "path" : "sounds/effect/explosion/explode_0.fsb"
+      },
+      {
+         "path" : "sounds/effect/explosion/explode_1.fsb"
+      },
+      {
+         "path" : "sounds/effect/explosion/explode_2.fsb"
+      },
+      {
+         "path" : "sounds/effect/explosion/explode_3.fsb"
+      },
+      {
+         "path" : "sounds/effect/explosion/indoors_0.fsb"
+      },
+      {
+         "path" : "sounds/effect/explosion/indoors_1.fsb"
+      },
+      {
+         "path" : "sounds/effect/explosion/indoors_2.fsb"
+      },
+      {
+         "path" : "sounds/effect/explosion/indoors_3.fsb"
+      },
+      {
+         "path" : "sounds/effect/gunshot/gunshot_0.fsb"
+      },
+      {
+         "path" : "sounds/effect/gunshot/gunshot_1.fsb"
+      },
+      {
+         "path" : "sounds/effect/gunshot/gunshot_2.fsb"
+      },
+      {
+         "path" : "sounds/effect/gunshot/gunshot_3.fsb"
+      },
+      {
+         "path" : "sounds/effect/landmine.fsb"
+      },
+      {
+         "path" : "sounds/effect/player/blind.fsb"
+      },
+      {
+         "path" : "sounds/effect/player/heartbeat.fsb"
+      },
+      {
+         "path" : "sounds/effect/player/hitmarker.fsb"
+      },
+      {
+         "path" : "sounds/effect/player/splat.fsb"
+      },
+      {
+         "path" : "sounds/effect/player/voice/no_ammo_0.fsb"
+      },
+      {
+         "path" : "sounds/effect/player/voice/no_ammo_1.fsb"
+      },
+      {
+         "path" : "sounds/effect/player/voice/reload_0.fsb"
+      },
+      {
+         "path" : "sounds/effect/player/voice/reload_1.fsb"
+      },
+      {
+         "path" : "sounds/effect/player/voice/reload_2.fsb"
+      },
+      {
+         "path" : "sounds/effect/player/voice/reload_3.fsb"
+      },
+      {
+         "path" : "sounds/effect/player/voice/reload_4.fsb"
+      },
+      {
+         "path" : "sounds/effect/weapon/ads_in.fsb"
+      },
+      {
+         "path" : "sounds/effect/weapon/ads_out.fsb"
+      },
+      {
+         "path" : "sounds/effect/weapon/attach.fsb"
+      },
+      {
+         "path" : "sounds/effect/weapon/dist_large.fsb"
+      },
+      {
+         "path" : "sounds/effect/weapon/dist_large_extra.fsb"
+      },
+      {
+         "path" : "sounds/effect/weapon/dist_low.fsb"
+      },
+      {
+         "path" : "sounds/effect/weapon/dist_medium.fsb"
+      },
+      {
+         "path" : "sounds/effect/weapon/dist_short.fsb"
+      },
+      {
+         "path" : "sounds/effect/weapon/draw_0.fsb"
+      },
+      {
+         "path" : "sounds/effect/weapon/draw_1.fsb"
+      },
+      {
+         "path" : "sounds/effect/weapon/draw_2.fsb"
+      },
+      {
+         "path" : "sounds/effect/weapon/draw_3.fsb"
+      },
+      {
+         "path" : "sounds/effect/weapon/draw_4.fsb"
+      },
+      {
+         "path" : "sounds/effect/weapon/draw_5.fsb"
+      },
+      {
+         "path" : "sounds/effect/weapon/draw_6.fsb"
+      },
+      {
+         "path" : "sounds/effect/weapon/dryfire.fsb"
+      },
+      {
+         "path" : "sounds/effect/weapon/holster.fsb"
+      },
+      {
+         "path" : "sounds/effect/weapon/indoors.fsb"
+      },
+      {
+         "path" : "sounds/effect/weapon/iron_in.fsb"
+      },
+      {
+         "path" : "sounds/effect/weapon/iron_out.fsb"
+      },
+      {
+         "path" : "sounds/effect/weapon/lean_in.fsb"
+      },
+      {
+         "path" : "sounds/effect/weapon/lean_out.fsb"
+      },
+      {
+         "path" : "sounds/effect/weapon/outdoors.fsb"
+      },
+      {
+         "path" : "sounds/random/explode1.fsb"
+      },
+      {
+         "path" : "sounds/random/explode2.fsb"
+      },
+      {
+         "path" : "sounds/random/explode3.fsb"
+      },
+      {
+         "path" : "sounds/random/explode4.fsb"
+      },
+      {
+         "path" : "sounds/sound_definitions.json"
+      },
+      {
+         "path" : "sounds/throwable/flash_grenade/explode.fsb"
+      },
+      {
+         "path" : "sounds/throwable/grenade/drop.fsb"
+      },
+      {
+         "path" : "sounds/throwable/grenade/throw.fsb"
+      },
+      {
+         "path" : "sounds/throwable/smoke_grenade/burn_loop_end.fsb"
+      },
+      {
+         "path" : "sounds/throwable/smoke_grenade/detonate.fsb"
+      },
+      {
+         "path" : "sounds/weapons/ak12/arm_movement.fsb"
+      },
+      {
+         "path" : "sounds/weapons/ak12/fire.fsb"
+      },
+      {
+         "path" : "sounds/weapons/ak12/fire_indoor.fsb"
+      },
+      {
+         "path" : "sounds/weapons/ak12/fire_silenced.fsb"
+      },
+      {
+         "path" : "sounds/weapons/ak12/fire_silenced_indoor.fsb"
+      },
+      {
+         "path" : "sounds/weapons/ak12/hand_grab.fsb"
+      },
+      {
+         "path" : "sounds/weapons/ak12/mag_in.fsb"
+      },
+      {
+         "path" : "sounds/weapons/ak12/mag_out.fsb"
+      },
+      {
+         "path" : "sounds/weapons/ak12/mag_out_arm_movement.fsb"
+      },
+      {
+         "path" : "sounds/weapons/ak12/mag_out_arm_movement_speed.fsb"
+      },
+      {
+         "path" : "sounds/weapons/ak12/pull_back.fsb"
+      },
+      {
+         "path" : "sounds/weapons/ak12/pull_forward.fsb"
+      },
+      {
+         "path" : "sounds/weapons/ak47/fire.fsb"
+      },
+      {
+         "path" : "sounds/weapons/ak47/fire_indoor.fsb"
+      },
+      {
+         "path" : "sounds/weapons/ak47/mag_in.fsb"
+      },
+      {
+         "path" : "sounds/weapons/ak47/mag_out.fsb"
+      },
+      {
+         "path" : "sounds/weapons/ak47/mag_release.fsb"
+      },
+      {
+         "path" : "sounds/weapons/ak47/pull_back.fsb"
+      },
+      {
+         "path" : "sounds/weapons/ak47/pull_forward.fsb"
+      },
+      {
+         "path" : "sounds/weapons/awp/arm_movement.fsb"
+      },
+      {
+         "path" : "sounds/weapons/awp/fire.fsb"
+      },
+      {
+         "path" : "sounds/weapons/awp/fire_indoor.fsb"
+      },
+      {
+         "path" : "sounds/weapons/awp/mag_in.fsb"
+      },
+      {
+         "path" : "sounds/weapons/awp/mag_out.fsb"
+      },
+      {
+         "path" : "sounds/weapons/awp/pull_back.fsb"
+      },
+      {
+         "path" : "sounds/weapons/awp/pull_forward.fsb"
+      },
+      {
+         "path" : "sounds/weapons/deagle/fire.fsb"
+      },
+      {
+         "path" : "sounds/weapons/deagle/fire_indoor.fsb"
+      },
+      {
+         "path" : "sounds/weapons/deagle/fire_silenced.fsb"
+      },
+      {
+         "path" : "sounds/weapons/deagle/fire_silenced_indoor.fsb"
+      },
+      {
+         "path" : "sounds/weapons/deagle/mag_hit.fsb"
+      },
+      {
+         "path" : "sounds/weapons/deagle/mag_in.fsb"
+      },
+      {
+         "path" : "sounds/weapons/deagle/mag_out.fsb"
+      },
+      {
+         "path" : "sounds/weapons/deagle/mag_release.fsb"
+      },
+      {
+         "path" : "sounds/weapons/deagle/safety.fsb"
+      },
+      {
+         "path" : "sounds/weapons/deagle/slide_back.fsb"
+      },
+      {
+         "path" : "sounds/weapons/deagle/slide_release.fsb"
+      },
+      {
+         "path" : "sounds/weapons/fnfal/fire.fsb"
+      },
+      {
+         "path" : "sounds/weapons/fnfal/fire_indoor.fsb"
+      },
+      {
+         "path" : "sounds/weapons/fnfal/mag_hit.fsb"
+      },
+      {
+         "path" : "sounds/weapons/fnfal/mag_in.fsb"
+      },
+      {
+         "path" : "sounds/weapons/fnfal/mag_out.fsb"
+      },
+      {
+         "path" : "sounds/weapons/fnfal/pull_back.fsb"
+      },
+      {
+         "path" : "sounds/weapons/fnfal/pull_forward.fsb"
+      },
+      {
+         "path" : "sounds/weapons/glock/fire.fsb"
+      },
+      {
+         "path" : "sounds/weapons/glock/fire_indoor.fsb"
+      },
+      {
+         "path" : "sounds/weapons/glock/fire_silenced.fsb"
+      },
+      {
+         "path" : "sounds/weapons/glock/fire_silenced_indoor.fsb"
+      },
+      {
+         "path" : "sounds/weapons/glock/mag_hit.fsb"
+      },
+      {
+         "path" : "sounds/weapons/glock/mag_in.fsb"
+      },
+      {
+         "path" : "sounds/weapons/glock/mag_out.fsb"
+      },
+      {
+         "path" : "sounds/weapons/glock/slide_back.fsb"
+      },
+      {
+         "path" : "sounds/weapons/glock/slide_release.fsb"
+      },
+      {
+         "path" : "sounds/weapons/m249/belt_align.fsb"
+      },
+      {
+         "path" : "sounds/weapons/m249/belt_pull_out.fsb"
+      },
+      {
+         "path" : "sounds/weapons/m249/belt_remove.fsb"
+      },
+      {
+         "path" : "sounds/weapons/m249/bullet_jingle.fsb"
+      },
+      {
+         "path" : "sounds/weapons/m249/cover_down.fsb"
+      },
+      {
+         "path" : "sounds/weapons/m249/cover_up.fsb"
+      },
+      {
+         "path" : "sounds/weapons/m249/fetch_mag.fsb"
+      },
+      {
+         "path" : "sounds/weapons/m249/fire.fsb"
+      },
+      {
+         "path" : "sounds/weapons/m249/fire_belt.fsb"
+      },
+      {
+         "path" : "sounds/weapons/m249/fire_belt_indoor.fsb"
+      },
+      {
+         "path" : "sounds/weapons/m249/fire_indoor.fsb"
+      },
+      {
+         "path" : "sounds/weapons/m249/mag_hit.fsb"
+      },
+      {
+         "path" : "sounds/weapons/m249/mag_in.fsb"
+      },
+      {
+         "path" : "sounds/weapons/m249/mag_out.fsb"
+      },
+      {
+         "path" : "sounds/weapons/m249/mag_out_full.fsb"
+      },
+      {
+         "path" : "sounds/weapons/m249/pull_back.fsb"
+      },
+      {
+         "path" : "sounds/weapons/m249/pull_forward.fsb"
+      },
+      {
+         "path" : "sounds/weapons/m249/shoulder.fsb"
+      },
+      {
+         "path" : "sounds/weapons/m249/throw_away_remaining.fsb"
+      },
+      {
+         "path" : "sounds/weapons/m4a1/fire.fsb"
+      },
+      {
+         "path" : "sounds/weapons/m4a1/fire_indoor.fsb"
+      },
+      {
+         "path" : "sounds/weapons/m4a1/fire_silenced.fsb"
+      },
+      {
+         "path" : "sounds/weapons/m4a1/fire_silenced_indoor.fsb"
+      },
+      {
+         "path" : "sounds/weapons/m4a1/mag_hit.fsb"
+      },
+      {
+         "path" : "sounds/weapons/m4a1/mag_in.fsb"
+      },
+      {
+         "path" : "sounds/weapons/m4a1/mag_out.fsb"
+      },
+      {
+         "path" : "sounds/weapons/m4a1/pull_back.fsb"
+      },
+      {
+         "path" : "sounds/weapons/m4a1/pull_forward.fsb"
+      },
+      {
+         "path" : "sounds/weapons/mossberg/fire.fsb"
+      },
+      {
+         "path" : "sounds/weapons/mossberg/fire_indoor.fsb"
+      },
+      {
+         "path" : "sounds/weapons/mossberg/pump_back.fsb"
+      },
+      {
+         "path" : "sounds/weapons/mossberg/pump_forward.fsb"
+      },
+      {
+         "path" : "sounds/weapons/mossberg/shell_in.fsb"
+      },
+      {
+         "path" : "sounds/weapons/mp5a5/fire.fsb"
+      },
+      {
+         "path" : "sounds/weapons/mp5a5/fire_indoor.fsb"
+      },
+      {
+         "path" : "sounds/weapons/mp5a5/fire_silenced.fsb"
+      },
+      {
+         "path" : "sounds/weapons/mp5a5/fire_silenced_indoor.fsb"
+      },
+      {
+         "path" : "sounds/weapons/mp5a5/mag_in.fsb"
+      },
+      {
+         "path" : "sounds/weapons/mp5a5/mag_out.fsb"
+      },
+      {
+         "path" : "sounds/weapons/mp5a5/pull_back.fsb"
+      },
+      {
+         "path" : "sounds/weapons/mp5a5/pull_forward.fsb"
+      },
+      {
+         "path" : "sounds/weapons/rpg7/begin_reload.fsb"
+      },
+      {
+         "path" : "sounds/weapons/rpg7/fire - Copy.fsb"
+      },
+      {
+         "path" : "sounds/weapons/rpg7/fire.fsb"
+      },
+      {
+         "path" : "sounds/weapons/rpg7/fire_indoor.fsb"
+      },
+      {
+         "path" : "sounds/weapons/rpg7/insert_round_1.fsb"
+      },
+      {
+         "path" : "sounds/weapons/rpg7/insert_round_2.fsb"
+      },
+      {
+         "path" : "sounds/weapons/rpg7/lock_round.fsb"
+      },
+      {
+         "path" : "sounds/weapons/rpg7/rocket_ignition.fsb"
+      },
+      {
+         "path" : "sounds/weapons/rpg7/safety_shoulder.fsb"
+      },
+      {
+         "path" : "sounds/wearable/nvg/toggle.fsb"
+      },
+      {
+         "path" : "sounds/wearable/nvg/toggleoff.fsb"
+      },
+      {
+         "path" : "texts/en_US.lang"
+      },
+      {
+         "path" : "texts/languages.json"
+      },
+      {
+         "path" : "texts/pt_BR.lang"
+      },
+      {
+         "path" : "textures/blocks/container/container_blue_side.tga"
+      },
+      {
+         "path" : "textures/blocks/container/container_blue_top.tga"
+      },
+      {
+         "path" : "textures/blocks/container/container_brown_side.tga"
+      },
+      {
+         "path" : "textures/blocks/container/container_brown_top.tga"
+      },
+      {
+         "path" : "textures/blocks/container/container_green_side.tga"
+      },
+      {
+         "path" : "textures/blocks/container/container_green_top.tga"
+      },
+      {
+         "path" : "textures/blocks/container/container_orange_side.tga"
+      },
+      {
+         "path" : "textures/blocks/container/container_orange_top.tga"
+      },
+      {
+         "path" : "textures/blocks/container/container_red_side.tga"
+      },
+      {
+         "path" : "textures/blocks/container/container_red_top.tga"
+      },
+      {
+         "path" : "textures/blocks/corrugated_metal.tga"
+      },
+      {
+         "path" : "textures/blocks/corrugated_metal_rusty.tga"
+      },
+      {
+         "path" : "textures/blocks/hazard_block.tga"
+      },
+      {
+         "path" : "textures/blocks/material/aluminum_block.tga"
+      },
+      {
+         "path" : "textures/blocks/material/aluminum_ore.tga"
+      },
+      {
+         "path" : "textures/blocks/material/deepslate_aluminum_ore.tga"
+      },
+      {
+         "path" : "textures/blocks/material/gunmetal_block.tga"
+      },
+      {
+         "path" : "textures/blocks/material/steel_block.tga"
+      },
+      {
+         "path" : "textures/blocks/props/barbed_wire.tga"
+      },
+      {
+         "path" : "textures/blocks/props/ceiling_light_broken.tga"
+      },
+      {
+         "path" : "textures/blocks/props/ceiling_light_off.tga"
+      },
+      {
+         "path" : "textures/blocks/props/ceiling_light_on.tga"
+      },
+      {
+         "path" : "textures/blocks/props/hedgehog.tga"
+      },
+      {
+         "path" : "textures/blocks/props/hesco_olive.tga"
+      },
+      {
+         "path" : "textures/blocks/props/hesco_snow.tga"
+      },
+      {
+         "path" : "textures/blocks/props/hesco_tan.tga"
+      },
+      {
+         "path" : "textures/blocks/props/landmine.tga"
+      },
+      {
+         "path" : "textures/blocks/props/sandbag.tga"
+      },
+      {
+         "path" : "textures/blocks/props/spotlight_broken.tga"
+      },
+      {
+         "path" : "textures/blocks/props/spotlight_off.tga"
+      },
+      {
+         "path" : "textures/blocks/props/spotlight_on.tga"
+      },
+      {
+         "path" : "textures/blocks/tread_plate.tga"
+      },
+      {
+         "path" : "textures/blocks/workbench/ammo_workbench.tga"
+      },
+      {
+         "path" : "textures/blocks/workbench/attachment_workbench.tga"
+      },
+      {
+         "path" : "textures/blocks/workbench/weapon_workbench.tga"
+      },
+      {
+         "path" : "textures/item_texture.json"
+      },
+      {
+         "path" : "textures/items/attachment/acog_sight.tga"
+      },
+      {
+         "path" : "textures/items/attachment/eotech_sight.tga"
+      },
+      {
+         "path" : "textures/items/attachment/foregrip.tga"
+      },
+      {
+         "path" : "textures/items/attachment/laser_green.tga"
+      },
+      {
+         "path" : "textures/items/attachment/laser_red.tga"
+      },
+      {
+         "path" : "textures/items/attachment/okp7_reflex_sight.tga"
+      },
+      {
+         "path" : "textures/items/attachment/predator_v4_sight.tga"
+      },
+      {
+         "path" : "textures/items/attachment/scope_hp.tga"
+      },
+      {
+         "path" : "textures/items/attachment/scope_lp.tga"
+      },
+      {
+         "path" : "textures/items/attachment/silencer.tga"
+      },
+      {
+         "path" : "textures/items/blueprint/blueprint_weapons.tga"
+      },
+      {
+         "path" : "textures/items/bullet/bullet_12gauge.tga"
+      },
+      {
+         "path" : "textures/items/bullet/bullet_50ae.tga"
+      },
+      {
+         "path" : "textures/items/bullet/bullet_545x39.tga"
+      },
+      {
+         "path" : "textures/items/bullet/bullet_556x45.tga"
+      },
+      {
+         "path" : "textures/items/bullet/bullet_762x39.tga"
+      },
+      {
+         "path" : "textures/items/bullet/bullet_762x51.tga"
+      },
+      {
+         "path" : "textures/items/bullet/bullet_9x19pr.tga"
+      },
+      {
+         "path" : "textures/items/food/cooked_flesh.tga"
+      },
+      {
+         "path" : "textures/items/mag/ak12_mag.tga"
+      },
+      {
+         "path" : "textures/items/mag/ak47_mag.tga"
+      },
+      {
+         "path" : "textures/items/mag/ak74_mag.tga"
+      },
+      {
+         "path" : "textures/items/mag/akm_mag.tga"
+      },
+      {
+         "path" : "textures/items/mag/awp_mag.tga"
+      },
+      {
+         "path" : "textures/items/mag/bullet_12gauge.tga"
+      },
+      {
+         "path" : "textures/items/mag/deagle_mag.tga"
+      },
+      {
+         "path" : "textures/items/mag/fnfal_mag.tga"
+      },
+      {
+         "path" : "textures/items/mag/glock_mag.tga"
+      },
+      {
+         "path" : "textures/items/mag/m249_mag.tga"
+      },
+      {
+         "path" : "textures/items/mag/m4a1_mag.tga"
+      },
+      {
+         "path" : "textures/items/mag/mp5a5_mag.tga"
+      },
+      {
+         "path" : "textures/items/mag/rpg7_rocket.tga"
+      },
+      {
+         "path" : "textures/items/material/aluminum_ingot.tga"
+      },
+      {
+         "path" : "textures/items/material/aluminum_nugget.tga"
+      },
+      {
+         "path" : "textures/items/material/bucket_petroleum.tga"
+      },
+      {
+         "path" : "textures/items/material/gunmetal_ingot.tga"
+      },
+      {
+         "path" : "textures/items/material/gunmetal_nugget.tga"
+      },
+      {
+         "path" : "textures/items/material/gunmetal_scrap.tga"
+      },
+      {
+         "path" : "textures/items/material/plastic_mass.tga"
+      },
+      {
+         "path" : "textures/items/material/plastic_plate.tga"
+      },
+      {
+         "path" : "textures/items/material/steel_ingot.tga"
+      },
+      {
+         "path" : "textures/items/material/steel_mix.tga"
+      },
+      {
+         "path" : "textures/items/material/steel_nugget.tga"
+      },
+      {
+         "path" : "textures/items/material/sulfur_powder.tga"
+      },
+      {
+         "path" : "textures/items/medical/bandage.tga"
+      },
+      {
+         "path" : "textures/items/medical/bandage_military.tga"
+      },
+      {
+         "path" : "textures/items/other/config.tga"
+      },
+      {
+         "path" : "textures/items/other/lock.tga"
+      },
+      {
+         "path" : "textures/items/other/remote_detonator.tga"
+      },
+      {
+         "path" : "textures/items/other/settings_menu.tga"
+      },
+      {
+         "path" : "textures/items/part/barrel_long.tga"
+      },
+      {
+         "path" : "textures/items/part/barrel_medium.tga"
+      },
+      {
+         "path" : "textures/items/part/barrel_short.tga"
+      },
+      {
+         "path" : "textures/items/part/grip.tga"
+      },
+      {
+         "path" : "textures/items/part/grip_pistol.tga"
+      },
+      {
+         "path" : "textures/items/part/stock_foldable.tga"
+      },
+      {
+         "path" : "textures/items/part/stock_polymer.tga"
+      },
+      {
+         "path" : "textures/items/part/stock_rpg7.tga"
+      },
+      {
+         "path" : "textures/items/part/stock_sniper_polymer.tga"
+      },
+      {
+         "path" : "textures/items/part/stock_wood.tga"
+      },
+      {
+         "path" : "textures/items/props/landmine.tga"
+      },
+      {
+         "path" : "textures/items/throwable/c4_explosive copy.tga"
+      },
+      {
+         "path" : "textures/items/throwable/c4_explosive.tga"
+      },
+      {
+         "path" : "textures/items/throwable/fireg.tga"
+      },
+      {
+         "path" : "textures/items/throwable/flare.tga"
+      },
+      {
+         "path" : "textures/items/throwable/l83a1_grenade.tga"
+      },
+      {
+         "path" : "textures/items/throwable/m84_grenade.tga"
+      },
+      {
+         "path" : "textures/items/throwable/mk2_grenade.tga"
+      },
+      {
+         "path" : "textures/items/weapons/ak12.tga"
+      },
+      {
+         "path" : "textures/items/weapons/ak47.tga"
+      },
+      {
+         "path" : "textures/items/weapons/ak74.tga"
+      },
+      {
+         "path" : "textures/items/weapons/akm.tga"
+      },
+      {
+         "path" : "textures/items/weapons/aks74u.tga"
+      },
+      {
+         "path" : "textures/items/weapons/awp.tga"
+      },
+      {
+         "path" : "textures/items/weapons/deagle.tga"
+      },
+      {
+         "path" : "textures/items/weapons/fnfal.tga"
+      },
+      {
+         "path" : "textures/items/weapons/glock17.tga"
+      },
+      {
+         "path" : "textures/items/weapons/glock18.tga"
+      },
+      {
+         "path" : "textures/items/weapons/m1014.tga"
+      },
+      {
+         "path" : "textures/items/weapons/m249.tga"
+      },
+      {
+         "path" : "textures/items/weapons/m4a1.tga"
+      },
+      {
+         "path" : "textures/items/weapons/mossberg.tga"
+      },
+      {
+         "path" : "textures/items/weapons/mp5a5.tga"
+      },
+      {
+         "path" : "textures/items/weapons/parafal.tga"
+      },
+      {
+         "path" : "textures/items/weapons/rpg7.tga"
+      },
+      {
+         "path" : "textures/items/weapons/sks.tga"
+      },
+      {
+         "path" : "textures/items/wearable/helmet_6b47.tga"
+      },
+      {
+         "path" : "textures/items/wearable/helmet_6b47_nvg.tga"
+      },
+      {
+         "path" : "textures/items/wearable/juggernaut_boots.tga"
+      },
+      {
+         "path" : "textures/items/wearable/juggernaut_chestplate.tga"
+      },
+      {
+         "path" : "textures/items/wearable/juggernaut_helmet.tga"
+      },
+      {
+         "path" : "textures/items/wearable/juggernaut_leggings.tga"
+      },
+      {
+         "path" : "textures/items/wearable/nvg.tga"
+      },
+      {
+         "path" : "textures/items/wearable/vest_6b13.tga"
+      },
+      {
+         "path" : "textures/items/wearable/vest_6b3.tga"
+      },
+      {
+         "path" : "textures/items/wearable/vest_bnti_gzhelk.tga"
+      },
+      {
+         "path" : "textures/misc/minigame/capture_flags.tga"
+      },
+      {
+         "path" : "textures/misc/muzzle_flash.tga"
+      },
+      {
+         "path" : "textures/misc/none.tga"
+      },
+      {
+         "path" : "textures/models/attachment/acog_sight.tga"
+      },
+      {
+         "path" : "textures/models/attachment/eotech_sight.tga"
+      },
+      {
+         "path" : "textures/models/attachment/foregrip.tga"
+      },
+      {
+         "path" : "textures/models/attachment/laser_green.tga"
+      },
+      {
+         "path" : "textures/models/attachment/laser_red.tga"
+      },
+      {
+         "path" : "textures/models/attachment/okp7_reflex_sight.tga"
+      },
+      {
+         "path" : "textures/models/attachment/predator_v4.tga"
+      },
+      {
+         "path" : "textures/models/attachment/scope_hp.tga"
+      },
+      {
+         "path" : "textures/models/attachment/scope_lp.tga"
+      },
+      {
+         "path" : "textures/models/attachment/silencer.tga"
+      },
+      {
+         "path" : "textures/models/throwable/c4_explosive.tga"
+      },
+      {
+         "path" : "textures/models/throwable/flare.tga"
+      },
+      {
+         "path" : "textures/models/throwable/flare_firing.tga"
+      },
+      {
+         "path" : "textures/models/throwable/l83a1_grenade.tga"
+      },
+      {
+         "path" : "textures/models/throwable/m84_grenade.tga"
+      },
+      {
+         "path" : "textures/models/throwable/mk2_grenade.tga"
+      },
+      {
+         "path" : "textures/models/weapons/ak12.tga"
+      },
+      {
+         "path" : "textures/models/weapons/ak47.tga"
+      },
+      {
+         "path" : "textures/models/weapons/ak74.tga"
+      },
+      {
+         "path" : "textures/models/weapons/akm.tga"
+      },
+      {
+         "path" : "textures/models/weapons/aks74u.tga"
+      },
+      {
+         "path" : "textures/models/weapons/awp.tga"
+      },
+      {
+         "path" : "textures/models/weapons/deagle.tga"
+      },
+      {
+         "path" : "textures/models/weapons/fnfal.tga"
+      },
+      {
+         "path" : "textures/models/weapons/glock17.tga"
+      },
+      {
+         "path" : "textures/models/weapons/glock18.tga"
+      },
+      {
+         "path" : "textures/models/weapons/m1014.tga"
+      },
+      {
+         "path" : "textures/models/weapons/m16a4.tga"
+      },
+      {
+         "path" : "textures/models/weapons/m249.tga"
+      },
+      {
+         "path" : "textures/models/weapons/m4a1.tga"
+      },
+      {
+         "path" : "textures/models/weapons/mossberg.tga"
+      },
+      {
+         "path" : "textures/models/weapons/mp5a5.tga"
+      },
+      {
+         "path" : "textures/models/weapons/parafal.tga"
+      },
+      {
+         "path" : "textures/models/weapons/pkm.tga"
+      },
+      {
+         "path" : "textures/models/weapons/rpg7.tga"
+      },
+      {
+         "path" : "textures/models/weapons/sks.tga"
+      },
+      {
+         "path" : "textures/models/wearable/helmet_6b47.tga"
+      },
+      {
+         "path" : "textures/models/wearable/juggernaut.tga"
+      },
+      {
+         "path" : "textures/models/wearable/juggernaut_old.tga"
+      },
+      {
+         "path" : "textures/models/wearable/nvg.tga"
+      },
+      {
+         "path" : "textures/models/wearable/vest_6b13.tga"
+      },
+      {
+         "path" : "textures/models/wearable/vest_6b3.tga"
+      },
+      {
+         "path" : "textures/models/wearable/vest_bnti_gzhelk.tga"
+      },
+      {
+         "path" : "textures/particle/blood.tga"
+      },
+      {
+         "path" : "textures/particle/bullet/hole.tga"
+      },
+      {
+         "path" : "textures/particle/bullet/hole_dirt.tga"
+      },
+      {
+         "path" : "textures/particle/casing/shell.tga"
+      },
+      {
+         "path" : "textures/particle/casing/shell_shotgun.tga"
+      },
+      {
+         "path" : "textures/particle/entity_laser_glint.tga"
+      },
+      {
+         "path" : "textures/particle/glint.tga"
+      },
+      {
+         "path" : "textures/particle/hit_marker.tga"
+      },
+      {
+         "path" : "textures/particle/laser.tga"
+      },
+      {
+         "path" : "textures/particle/light/lensflare.tga"
+      },
+      {
+         "path" : "textures/particle/light/light_explosion.tga"
+      },
+      {
+         "path" : "textures/particle/light/light_flash.tga"
+      },
+      {
+         "path" : "textures/particle/light/light_muzzle.tga"
+      },
+      {
+         "path" : "textures/particle/misc/blood.tga"
+      },
+      {
+         "path" : "textures/particle/misc/debris.tga"
+      },
+      {
+         "path" : "textures/particle/misc/spark.tga"
+      },
+      {
+         "path" : "textures/particle/misc/white.tga"
+      },
+      {
+         "path" : "textures/particle/particles.tga"
+      },
+      {
+         "path" : "textures/particle/smoke/flare_smoke.tga"
+      },
+      {
+         "path" : "textures/particle/smoke/smoke.tga"
+      },
+      {
+         "path" : "textures/particle/spark.tga"
+      },
+      {
+         "path" : "textures/particle/sparkle.tga"
+      },
+      {
+         "path" : "textures/terrain_texture.json"
+      },
+      {
+         "path" : "textures/texture_list.json"
+      },
+      {
+         "path" : "textures/texture_lists.json"
+      },
+      {
+         "path" : "textures/ui/creators/aplok.tga"
+      },
+      {
+         "path" : "textures/ui/creators/hsk.tga"
+      },
+      {
+         "path" : "textures/ui/docs/crafting_ammo_0.tga"
+      },
+      {
+         "path" : "textures/ui/docs/crafting_ammo_1.tga"
+      },
+      {
+         "path" : "textures/ui/docs/crafting_ammo_2.tga"
+      },
+      {
+         "path" : "textures/ui/docs/crafting_gunmetal_0.tga"
+      },
+      {
+         "path" : "textures/ui/docs/crafting_gunmetal_1.tga"
+      },
+      {
+         "path" : "textures/ui/docs/throabçes/c4_explosive.tga"
+      },
+      {
+         "path" : "textures/ui/docs/throabçes/l81a1_grenade.tga"
+      },
+      {
+         "path" : "textures/ui/docs/throabçes/m84_grenade.tga"
+      },
+      {
+         "path" : "textures/ui/docs/throabçes/mk2_grenade.tga"
+      },
+      {
+         "path" : "textures/ui/docs/weapons/ak12.tga"
+      },
+      {
+         "path" : "textures/ui/docs/weapons/ak47.tga"
+      },
+      {
+         "path" : "textures/ui/docs/weapons/akm.tga"
+      },
+      {
+         "path" : "textures/ui/docs/weapons/awp.tga"
+      },
+      {
+         "path" : "textures/ui/docs/weapons/fnfal.tga"
+      },
+      {
+         "path" : "textures/ui/docs/weapons/m4a1.tga"
+      },
+      {
+         "path" : "textures/ui/docs/weapons/mossberg.tga"
+      },
+      {
+         "path" : "textures/ui/docs/weapons/mp5a5.tga"
+      },
+      {
+         "path" : "textures/ui/docs/weapons/rpg7.tga"
+      },
+      {
+         "path" : "textures/ui/hud/THIS NOISE IS MADE BY ME IN PIXELLAB SUKA.txt"
+      },
+      {
+         "path" : "textures/ui/hud/VIGNETTE BY HSK.txt"
+      },
+      {
+         "path" : "textures/ui/hud/hud_juggernaut.tga"
+      },
+      {
+         "path" : "textures/ui/hud/noise.tga"
+      },
+      {
+         "path" : "textures/ui/hud/nvg.tga"
+      },
+      {
+         "path" : "textures/ui/hud/sight/scope_acog.tga"
+      },
+      {
+         "path" : "textures/ui/hud/sight/scope_acog_blur.tga"
+      },
+      {
+         "path" : "textures/ui/hud/sight/scope_hp.tga"
+      },
+      {
+         "path" : "textures/ui/hud/sight/scope_hp_blur.tga"
+      },
+      {
+         "path" : "textures/ui/hud/sight/scope_lp.tga"
+      },
+      {
+         "path" : "textures/ui/hud/sight/scope_lp_blur.tga"
+      },
+      {
+         "path" : "textures/ui/hud/vignette.tga"
+      },
+      {
+         "path" : "textures/ui/hud/vignette_fear.tga"
+      },
+      {
+         "path" : "textures/ui/hud_mob_effect_background.tga"
+      },
+      {
+         "path" : "textures/ui/hud_tip_text_background.json"
+      },
+      {
+         "path" : "textures/ui/hud_tip_text_background.tga"
+      },
+      {
+         "path" : "textures/ui/slowness_effect.tga"
+      },
+      {
+         "path" : "textures/ui/title.tga"
+      },
+      {
+         "path" : "ui/_ui_defs.json"
+      },
+      {
+         "path" : "ui/content_log.json"
+      },
+      {
+         "path" : "ui/hud/hud_elements.json"
+      },
+      {
+         "path" : "ui/hud_screen.json"
+      },
+      {
+         "path" : "ui/inventory_screen.json"
+      },
+      {
+         "path" : "ui/pause_screen.json"
+      },
+      {
+         "path" : "ui/screen/workbench_screen.json"
+      }
+   ],
+   "version" : 1
+}

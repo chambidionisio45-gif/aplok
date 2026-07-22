@@ -1,0 +1,48 @@
+/* Copyright 2025 <FireWave Interactive>. This work is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License. You may not use this work for commercial purposes, and you may not alter, transform, or build upon this work. For more details, visit http://creativecommons.org/licenses/by-nc-nd/4.0/ */
+{
+    "header": {
+        "name": "Aplok Guns Public Beta RP 1.1.8",
+        "description": "Produced by Gabriel Aplok. Do not redistribute.",
+        "uuid": "d6067ec8-4a70-467b-85c2-a43b8be9cebc",
+        "version": [
+            1,
+            1,
+            8
+        ],
+        "min_engine_version": [
+            1,
+            21,
+            80
+        ]
+    },
+    "format_version": 2,
+    "modules": [
+        {
+            "type": "resources",
+            "uuid": "b9941c4a-4453-4885-b0a2-dec40bf918e1",
+            "version": [
+                1,
+                0,
+                0
+            ]
+        }
+    ],
+    "metadata": {
+        "authors": [
+            "Gabriel Aplok",
+            "Trenbankai"
+        ],
+        "license": "http://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "url": "https://trenbankai.com/projects/aplok-guns"
+    },
+    "dependencies": [
+        {
+            "uuid": "c5cf26cf-eb40-4db6-b7d4-e902f023de8e",
+            "version": [
+                1,
+                1,
+                8
+            ]
+        }
+    ]
+}

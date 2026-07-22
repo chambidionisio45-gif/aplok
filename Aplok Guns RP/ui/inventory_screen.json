@@ -1,0 +1,44 @@
+/* Copyright 2025 <FireWave Interactive>. This work is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License. You may not use this work for commercial purposes, and you may not alter, transform, or build upon this work. For more details, visit http://creativecommons.org/licenses/by-nc-nd/4.0/ */
+{
+  "namespace": "crafting",
+  "crafting_panel_top_half": {
+    "type": "panel",
+    "size": ["100%", "50%"],
+    "anchor_from": "top_left",
+    "anchor_to": "top_left",
+    "controls": [
+      {
+        "crafting_panel@crafting.work_bench_panel_3x3": {
+          "offset": [29, 0],
+          "bindings": [
+            {
+              "binding_name": "#crafting_label_text",
+              "binding_type": "global"
+            },
+            {
+              "binding_type": "view",
+              "source_property_name": "(not (#crafting_label_text = 'ui.weapon_workbench'))",
+              "target_property_name": "#visible"
+            }
+          ]
+        }
+      },
+      {
+        "workbench_panel@workbench.workbench_panel": {
+          "offset": [29, 0],
+          "bindings": [
+            {
+              "binding_name": "#crafting_label_text",
+              "binding_type": "global"
+            },
+            {
+              "binding_type": "view",
+              "source_property_name": "(#crafting_label_text = 'ui.weapon_workbench')",
+              "target_property_name": "#visible"
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

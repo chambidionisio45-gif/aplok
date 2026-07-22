@@ -1,0 +1,172 @@
+pack.description=Produzido por Gabriel Aplok.	#
+
+entity.trenbankai:l83a1_grenade_entity.name=Granada L83A1	#
+entity.trenbankai:m84_grenade_entity.name=Granada M84	#
+entity.trenbankai:mk2_grenade_entity.name=Granada Mk 2	#
+entity.trenbankai:landmine_explosion.name=Mina terrestre	#
+entity.trenbankai:bullet.name=Bala	#
+entity.trenbankai:rocket.name=Foguete	#
+
+## Items
+itemGroup.name.trenbankai:containers=Contêineres	#
+itemGroup.name.trenbankai:hesco=Hesco	#
+itemGroup.name.trenbankai:props=Acessórios	#
+itemGroup.name.trenbankai:workbench=Bancadas de trabalho	#
+itemGroup.name.trenbankai:attachments=Anexos	#
+itemGroup.name.trenbankai:ammo=Pentes e cartuchos	#
+itemGroup.name.trenbankai:throwables=Arremessáveis	#
+itemGroup.name.trenbankai:weapons=Armas de fogo	#
+
+item.helmet_6b47.name=Capacete 6B46 Ratnik-BSh	#
+item.helmet_6b47_nvg.name=Capacete 6B46 Ratnik-BSh com Óculos de visão noturna	#
+item.juggernaut_boots.name=Botas Juggernaut	#
+item.juggernaut_chestplate.name=Peitoral Juggernaut	#
+item.juggernaut_helmet.name=Capacete Juggernaut	#
+item.juggernaut_leggings.name=Calça Juggernaut	#
+item.nvg.name=Óculos de visão noturna	#
+item.vest_6b3.name=Armadura de assaulto 6B13	#
+item.vest_6b3.name=Armadura corporal 6B3	#
+item.vest_bnti_gzhelk.name=Armadura corporal 6BNTI Gzhel-KB3	#
+
+item.acog_sight.name=Mira ACOG	#
+item.eotech_sight.name=Mira EOTech	#
+item.okp7_reflex_sight.name=Mira OKP-7 Reflex	#
+item.predator_v4_sight.name=Mira Predator V4	#
+item.foregrip.name=Punho frontal	#
+item.laser_red.name=Laser vermelho	#
+item.laser_green.name=Laser verde	#
+item.scope_hp.name=Mira de longo alcance	#
+item.scope_lp.name=Mira de curto alcance	#
+item.silencer.name=Silenciador	#
+
+item.blueprint_attachments.name=Item obsoleto, será removido em breve	#
+item.blueprint_weapons.name=Blueprint para armas	#
+
+item.bullet_9x19pr.name=Bala 9x19mm Parabellum	#
+item.bullet_12gauge.name=Cartucho de calibre 12	#
+item.bullet_50ae.name=Cartucho .50 AE	#
+item.bullet_545x39.name=Bala 5,45x39mm	#
+item.bullet_556x45.name=Bala 5,56x45mm OTAN	#
+item.bullet_762x39.name=Bala 7,62x39mm	#
+item.bullet_762x51.name=Bala 7,62x51mm OTAN	#
+
+item.cooked_flesh.name=Carne cozida	#
+
+item.m1014.name=M1014 §c(TESTE)§r	#
+
+item.ak47_mag.name=Pente da AK-12	#
+item.ak47_mag.name=Pente da AK-47	#
+item.ak74_mag.name=Pente da AK-74	#
+item.akm_mag.name=Pente da AKM	#
+item.awp_mag.name=Pente da AWP	#
+item.deagle_mag.name=Pente da Desert Eagle	#
+item.fnfal_mag.name=Pente da FN FAL	#
+item.glock_magname=Pente das Glocks	#
+item.m249_mag.name=Caixa da M249	#
+item.m4a1_mag.name=Pente da M4A1	#
+item.mp5a5_mag.name=Pente da HK MP5-A5	#
+item.rpg7_rocket.name=Foguete da RPG-7	#
+
+item.aluminum_ingot.name=Lingote de alumínio	#
+item.aluminum_nugget.name=Pepita de alumínio	#
+item.bucket_petroleum.name=Balde com petróleo	#
+item.gunmetal_ingot.name=Lingote de metal	#
+item.gunmetal_nugget.name=Pepita de metal	#
+item.gunmetal_scrap.name=Sucata de metal	#
+item.plastic_mass.name=Massa plástica	#
+item.plastic_plate.name=Prato de plástico	#
+item.steel_ingot.name=Lingote de aço	#
+item.steel_mix.name=Mistura de aço	#
+item.steel_nugget.name=Pepita de aço	#
+item.sulfur_powder.name=Enxofre em pó	#
+
+item.landmine.name=Mina terrestre	#
+
+item.settings_menu.name=§9Menu de configurações do Aplok Guns§r	#
+
+item.barrel_long.name=Cano longo	#
+item.barrel_medium.name=Cano médio	#
+item.barrel_short.name=Cano curto	#
+item.grip.name=Cabo	#
+item.grip_pistol.name=Cabo da pistola	#
+item.stock_polymer.name=Estoque de polímero	#
+item.stock_rpg7.name=Estoque para RPG-7	#
+item.stock_sniper_polymer.name=Estoque para sniper de polímero	#
+item.stock_wood.name=Estoque de madeira	#
+item.stock_foldable.name=Estoque dobrável	#
+
+item.l83a1_grenade.name=Granada L83A1	#
+item.m84_grenade.name=Granada M84	#
+item.mk2_grenade.name=Granada Mk 2	#
+item.flare.name=Sinalizador	#
+
+## Tiles
+
+tile.aluminum_block.name=Bloco de alumínio 	#
+tile.aluminum_ore.name=Minério de alumínio 	#
+tile.deepslate_aluminum_ore.name=Minério de alumínio deepslate 	#
+tile.steel_block.name=Bloco de aço 	#
+tile.gunmetal_block.name=Bloco de metal 	#
+tile.steel_ore.name=Minério de aço 	#
+
+tile.container_blue.name=Contêiner azul 	#
+tile.container_red.name=Contêiner vermelho 	#
+tile.container_green.name=Contêiner verde 	#
+tile.container_brown.name=Contêiner marrom 	#
+
+tile.hesco_olive.name=Muro hesco de oliva 	#
+tile.hesco_snow.name=Muro hesco de neve 	#
+tile.hesco_tan.name=Muro hesco bronzeado 	#
+
+tile.spotlight.name=Holofote 	#
+tile.barbed_wire.name=Arame farpado 	#
+tile.sandbag.name=Saco de arreia 	#
+tile.ceiling_light.name=Luz de teto 	#
+tile.corrugated_metal_rusty.name=Metal corrugado enferrujado 	#
+tile.corrugated_metal.name=Metal corrugado 	#
+tile.tread_plate.name=Placa de piso 	#
+tile.military_wall.name=Muro militar 	#
+tile.hazard_block.name=Bloco de perigo	#
+
+tile.ammo_workbench.name=Bancada de munição	#
+tile.attachment_workbench.name=Bancada de acessórios	#
+tile.weapon_workbench.name=Bancada de armas	#
+
+## Messages
+
+game.message.joined=§e[Aplok Guns]§r Use o §eMenu de configurações do Aplok Guns§r para personalizar suas configurações de jogo.	#
+
+game.message.weapon_workbench.hold_weapon=§cSegure uma arma na mão principal para usar a Bancada de Acessórios.	#
+game.message.weapon_workbench.no_support=§cEsta arma não permite a instalação de acessórios.	#
+game.message.weapon_workbench.no_config=§cNão foi encontrada a configuração de acessórios para esta arma.	#
+game.message.weapon_workbench.missing_attachment_item=§cItem de acessório ausente no inventário.	#
+game.message.weapon_workbench.transaction_failed=§cTransação falhou. Verifique se você possui o acessório necessário.	#
+game.message.ammo_workbench.no_ingredients=§cVocê não tem %s para criar as munições.	#
+game.message.ammo_workbench.ingredients_cost=Criar esta munição custará %s %s e %s %s.	#
+game.message.ammo_workbench.action.get=Obter %s	#
+
+game.action.cancel=Cancelar	#
+game.action.apply_attachment=Aplicar acessório	#
+
+game.tip.reloading=> RECARREGANDO <	#
+
+death.attack.bullet=%1$s foi baleado por %2$s usando %3$s	#
+death.attack.bullet.head=%1$s foi atingido na cabeça por %2$s usando %3$s	#
+
+## UI Texts
+ui.settings.title=Configurações	#
+ui.settings.save_button=Salvar Configurações	#
+ui.settings.page_text= - Página de Configurações	#
+ui.settings.required_op= - §cRequer Host/OP	#
+ui.settings.saved=§aConfigurações salvas com sucesso!	#
+ui.settings.need_op=§cVocê precisa ser o host ou o operador para alterar esta opção.	#
+
+## UI Categories
+ui.settings.category.general=Geral	#
+ui.settings.category.host=Admin	#
+ui.settings.category.weapons=Armas	#
+
+## UI Weapons
+ui.settings.setting.wall_detection=Detecção de parede	#
+ui.settings.setting.disable_shot_light=Desativar luz de tiro §c[Reduz lag]	#
+ui.settings.setting.deathMessage=Mensagem de morte	#

@@ -1,0 +1,31 @@
+/* Copyright 2025 <FireWave Interactive>. This work is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License. You may not use this work for commercial purposes, and you may not alter, transform, or build upon this work. For more details, visit http://creativecommons.org/licenses/by-nc-nd/4.0/ */
+{
+  "format_version": "1.12.0",
+  "minecraft:geometry": [
+    {
+      "description": {
+        "identifier": "geometry.hud_noise",
+        "texture_width": 512,
+        "texture_height": 512,
+        "visible_bounds_width": 24,
+        "visible_bounds_height": 56.5,
+        "visible_bounds_offset": [0, 26.75, 0]
+      },
+      "bones": [
+        {
+          "name": "hud_noise",
+          "pivot": [-0.015, 24.52, 2],
+          "cubes": [
+            {
+              "origin": [-18.015, 6.52, 2],
+              "size": [36, 36, 0],
+              "uv": {
+                "north": { "uv": [0, 0], "uv_size": [512, 512] }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

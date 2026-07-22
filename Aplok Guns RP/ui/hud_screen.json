@@ -1,0 +1,31 @@
+/* Copyright 2025 <FireWave Interactive>. This work is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License. You may not use this work for commercial purposes, and you may not alter, transform, or build upon this work. For more details, visit http://creativecommons.org/licenses/by-nc-nd/4.0/ */
+{
+  "namespace": "hud",
+  "watermark": {
+    "type": "label",
+    "anchor_from": "bottom_right",
+    "anchor_to": "bottom_right",
+    "text": "v1.1.8",
+    "shadow": true,
+    "localize": true,
+    "alpha": 0.45,
+    "layer": 31
+  },
+  "cooldown_renderer": {
+    "ignored": false
+  },
+  "hud_content_bg": {
+    "type": "panel",
+    "controls": [
+      {
+        "hud_elements@hud_elements.hud_elements": {}
+      },
+      {
+        "watermark@hud.watermark": {}
+      }
+    ]
+  },
+  "hud_screen@common.base_screen": {
+    "$screen_bg_content": "hud.hud_content_bg"
+  }
+}
